@@ -22,19 +22,19 @@ jobs:
       - name: Get dependencies
         run: flutter pub get
 
-      - name: Build Release APK
-        run: flutter build apk --release --split-per-abi
+      - name: Build Debug APK (no signing required)
+        run: flutter build apk --debug --split-per-abi
 
       - name: Rename APKs
         run: |
           mkdir -p artifacts
-          for f in build/app/outputs/flutter-apk/app-*-release.apk; do
-            abi=$(basename "$f" .apk | sed 's/app-//' | sed 's/-release//')
+          for f in build/app/outputs/flutter-apk/app-*-debug.apk; do
+            abi=$(basename "$f" .apk | sed 's/app-//' | sed 's/-debug//')
             cp "$f" "artifacts/nadodi-new-apk-${abi}.apk"
           done
           # Also copy universal if exists
-          if [ -f build/app/outputs/flutter-apk/app-release.apk ]; then
-            cp build/app/outputs/flutter-apk/app-release.apk artifacts/nadodi-new-apk-universal.apk
+          if [ -f build/app/outputs/flutter-apk/app-debug.apk ]; then
+            cp build/app/outputs/flutter-apk/app-debug.apk artifacts/nadodi-new-apk-universal.apk
           fi
 
       - name: Upload Artifacts
