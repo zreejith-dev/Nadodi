@@ -1,0 +1,53 @@
+name: Build Nadodi APK
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.19.0'
+          channel: 'stable'
+
+      - name: Get dependencies
+        run: flutter pub get
+
+      - name: Build Release APK
+        run: flutter build apk --release --split-per-abi
+
+      - name: Rename APKs
+        run: |
+          mkdir -p artifacts
+          for f in build/app/outputs/flutter-apk/app-*-release.apk; do
+            abi=$(basename "$f" .apk | sed 's/app-//' | sed 's/-release//')
+            cp "$f" "artifacts/nadodi-new-apk-${abi}.apk"
+          done
+          # Also copy universal if exists
+          if [ -f build/app/outputs/flutter-apk/app-release.apk ]; then
+            cp build/app/outputs/flutter-apk/app-release.apk artifacts/nadodi-new-apk-universal.apk
+          fi
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: nadodi-new-apk
+          path: artifacts/
+          retention-days: 7
+
+      - name: Create Release
+        if: github.event_name == 'workflow_dispatch'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: v2.1.0-${{ github.run_number }}
+          name: Nadodi v2.1.0 Build ${{ github.run_number }}
+          files: artifacts/*.apk
+          generate_release_notes: true

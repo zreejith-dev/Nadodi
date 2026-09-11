@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "name": "Kerala Stay 1",
+    "type": "Hostel",
+    "district": "Kannur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 2,
+    "name": "Kerala Stay 2",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 3,
+    "name": "Kerala Stay 3",
+    "type": "Eco Lodge",
+    "district": "Wayanad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 4,
+    "name": "Kerala Stay 4",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 5,
+    "name": "Kerala Stay 5",
+    "type": "Hotel",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 6,
+    "name": "Kerala Stay 6",
+    "type": "Homestay",
+    "district": "Thrissur",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 7,
+    "name": "Kerala Stay 7",
+    "type": "Eco Lodge",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 8,
+    "name": "Kerala Stay 8",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 9,
+    "name": "Kerala Stay 9",
+    "type": "Boutique Stay",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 10,
+    "name": "Kerala Stay 10",
+    "type": "Eco Lodge",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 11,
+    "name": "Kerala Stay 11",
+    "type": "Hotel",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 12,
+    "name": "Kerala Stay 12",
+    "type": "Homestay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 13,
+    "name": "Kerala Stay 13",
+    "type": "Hotel",
+    "district": "Thrissur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 14,
+    "name": "Kerala Stay 14",
+    "type": "Eco Lodge",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 15,
+    "name": "Kerala Stay 15",
+    "type": "Hotel",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 16,
+    "name": "Kerala Stay 16",
+    "type": "Homestay",
+    "district": "Malappuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 17,
+    "name": "Kerala Stay 17",
+    "type": "Hostel",
+    "district": "Alappuzha",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 18,
+    "name": "Kerala Stay 18",
+    "type": "Hotel",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b96000+",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 19,
+    "name": "Kerala Stay 19",
+    "type": "Eco Lodge",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 20,
+    "name": "Kerala Stay 20",
+    "type": "Resort",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 21,
+    "name": "Kerala Stay 21",
+    "type": "Resort",
+    "district": "Malappuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 22,
+    "name": "Kerala Stay 22",
+    "type": "Homestay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 23,
+    "name": "Kerala Stay 23",
+    "type": "Boutique Stay",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 24,
+    "name": "Kerala Stay 24",
+    "type": "Homestay",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 25,
+    "name": "Kerala Stay 25",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 26,
+    "name": "Kerala Stay 26",
+    "type": "Homestay",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 27,
+    "name": "Kerala Stay 27",
+    "type": "Resort",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 28,
+    "name": "Kerala Stay 28",
+    "type": "Resort",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b96000+",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 29,
+    "name": "Kerala Stay 29",
+    "type": "Hostel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 30,
+    "name": "Kerala Stay 30",
+    "type": "Resort",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 31,
+    "name": "Kerala Stay 31",
+    "type": "Boutique Stay",
+    "district": "Thrissur",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 32,
+    "name": "Kerala Stay 32",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 33,
+    "name": "Kerala Stay 33",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 34,
+    "name": "Kerala Stay 34",
+    "type": "Hotel",
+    "district": "Kannur",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 35,
+    "name": "Kerala Stay 35",
+    "type": "Hostel",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 36,
+    "name": "Kerala Stay 36",
+    "type": "Resort",
+    "district": "Malappuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 37,
+    "name": "Kerala Stay 37",
+    "type": "Boutique Stay",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 38,
+    "name": "Kerala Stay 38",
+    "type": "Resort",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 39,
+    "name": "Kerala Stay 39",
+    "type": "Hostel",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 40,
+    "name": "Kerala Stay 40",
+    "type": "Boutique Stay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 41,
+    "name": "Kerala Stay 41",
+    "type": "Eco Lodge",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 42,
+    "name": "Kerala Stay 42",
+    "type": "Hostel",
+    "district": "Kannur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 43,
+    "name": "Kerala Stay 43",
+    "type": "Boutique Stay",
+    "district": "Kasaragod",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 44,
+    "name": "Kerala Stay 44",
+    "type": "Hotel",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 45,
+    "name": "Kerala Stay 45",
+    "type": "Resort",
+    "district": "Idukki",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 46,
+    "name": "Kerala Stay 46",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 47,
+    "name": "Kerala Stay 47",
+    "type": "Boutique Stay",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 48,
+    "name": "Kerala Stay 48",
+    "type": "Boutique Stay",
+    "district": "Alappuzha",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 49,
+    "name": "Kerala Stay 49",
+    "type": "Resort",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 50,
+    "name": "Kerala Stay 50",
+    "type": "Hostel",
+    "district": "Thrissur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 51,
+    "name": "Kerala Stay 51",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 52,
+    "name": "Kerala Stay 52",
+    "type": "Hostel",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 53,
+    "name": "Kerala Stay 53",
+    "type": "Homestay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 54,
+    "name": "Kerala Stay 54",
+    "type": "Resort",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 55,
+    "name": "Kerala Stay 55",
+    "type": "Hostel",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 56,
+    "name": "Kerala Stay 56",
+    "type": "Hotel",
+    "district": "Wayanad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 57,
+    "name": "Kerala Stay 57",
+    "type": "Hostel",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 58,
+    "name": "Kerala Stay 58",
+    "type": "Homestay",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 59,
+    "name": "Kerala Stay 59",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 60,
+    "name": "Kerala Stay 60",
+    "type": "Hotel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 61,
+    "name": "Kerala Stay 61",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b96000+",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 62,
+    "name": "Kerala Stay 62",
+    "type": "Boutique Stay",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 63,
+    "name": "Kerala Stay 63",
+    "type": "Eco Lodge",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 64,
+    "name": "Kerala Stay 64",
+    "type": "Eco Lodge",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 65,
+    "name": "Kerala Stay 65",
+    "type": "Hostel",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 66,
+    "name": "Kerala Stay 66",
+    "type": "Resort",
+    "district": "Alappuzha",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 67,
+    "name": "Kerala Stay 67",
+    "type": "Homestay",
+    "district": "Kasaragod",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 68,
+    "name": "Kerala Stay 68",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 69,
+    "name": "Kerala Stay 69",
+    "type": "Hotel",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b96000+",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 70,
+    "name": "Kerala Stay 70",
+    "type": "Boutique Stay",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 71,
+    "name": "Kerala Stay 71",
+    "type": "Resort",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 72,
+    "name": "Kerala Stay 72",
+    "type": "Hotel",
+    "district": "Kollam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 73,
+    "name": "Kerala Stay 73",
+    "type": "Resort",
+    "district": "Malappuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 74,
+    "name": "Kerala Stay 74",
+    "type": "Hostel",
+    "district": "Alappuzha",
+    "price_range": "\u20b96000+",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 75,
+    "name": "Kerala Stay 75",
+    "type": "Resort",
+    "district": "Kottayam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 76,
+    "name": "Kerala Stay 76",
+    "type": "Hotel",
+    "district": "Idukki",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 77,
+    "name": "Kerala Stay 77",
+    "type": "Homestay",
+    "district": "Kasaragod",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 78,
+    "name": "Kerala Stay 78",
+    "type": "Boutique Stay",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 79,
+    "name": "Kerala Stay 79",
+    "type": "Resort",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 80,
+    "name": "Kerala Stay 80",
+    "type": "Hotel",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 81,
+    "name": "Kerala Stay 81",
+    "type": "Hotel",
+    "district": "Wayanad",
+    "price_range": "\u20b96000+",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 82,
+    "name": "Kerala Stay 82",
+    "type": "Hotel",
+    "district": "Idukki",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 83,
+    "name": "Kerala Stay 83",
+    "type": "Eco Lodge",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 84,
+    "name": "Kerala Stay 84",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 85,
+    "name": "Kerala Stay 85",
+    "type": "Hostel",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 86,
+    "name": "Kerala Stay 86",
+    "type": "Eco Lodge",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 87,
+    "name": "Kerala Stay 87",
+    "type": "Homestay",
+    "district": "Kottayam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 88,
+    "name": "Kerala Stay 88",
+    "type": "Homestay",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 89,
+    "name": "Kerala Stay 89",
+    "type": "Boutique Stay",
+    "district": "Thrissur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 90,
+    "name": "Kerala Stay 90",
+    "type": "Boutique Stay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 91,
+    "name": "Kerala Stay 91",
+    "type": "Hostel",
+    "district": "Wayanad",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 92,
+    "name": "Kerala Stay 92",
+    "type": "Homestay",
+    "district": "Kannur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 93,
+    "name": "Kerala Stay 93",
+    "type": "Hotel",
+    "district": "Kollam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 94,
+    "name": "Kerala Stay 94",
+    "type": "Hostel",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 95,
+    "name": "Kerala Stay 95",
+    "type": "Boutique Stay",
+    "district": "Idukki",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 96,
+    "name": "Kerala Stay 96",
+    "type": "Hotel",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 97,
+    "name": "Kerala Stay 97",
+    "type": "Homestay",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 98,
+    "name": "Kerala Stay 98",
+    "type": "Eco Lodge",
+    "district": "Idukki",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 99,
+    "name": "Kerala Stay 99",
+    "type": "Hotel",
+    "district": "Alappuzha",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 100,
+    "name": "Kerala Stay 100",
+    "type": "Hostel",
+    "district": "Kollam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 101,
+    "name": "Kerala Stay 101",
+    "type": "Eco Lodge",
+    "district": "Malappuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 102,
+    "name": "Kerala Stay 102",
+    "type": "Hostel",
+    "district": "Wayanad",
+    "price_range": "\u20b96000+",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 103,
+    "name": "Kerala Stay 103",
+    "type": "Boutique Stay",
+    "district": "Kannur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 104,
+    "name": "Kerala Stay 104",
+    "type": "Eco Lodge",
+    "district": "Thrissur",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 105,
+    "name": "Kerala Stay 105",
+    "type": "Hotel",
+    "district": "Wayanad",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 106,
+    "name": "Kerala Stay 106",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 107,
+    "name": "Kerala Stay 107",
+    "type": "Eco Lodge",
+    "district": "Thrissur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 108,
+    "name": "Kerala Stay 108",
+    "type": "Resort",
+    "district": "Alappuzha",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 109,
+    "name": "Kerala Stay 109",
+    "type": "Hostel",
+    "district": "Kottayam",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 110,
+    "name": "Kerala Stay 110",
+    "type": "Resort",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 111,
+    "name": "Kerala Stay 111",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 112,
+    "name": "Kerala Stay 112",
+    "type": "Hostel",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 113,
+    "name": "Kerala Stay 113",
+    "type": "Homestay",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 114,
+    "name": "Kerala Stay 114",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 115,
+    "name": "Kerala Stay 115",
+    "type": "Eco Lodge",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 116,
+    "name": "Kerala Stay 116",
+    "type": "Resort",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 117,
+    "name": "Kerala Stay 117",
+    "type": "Boutique Stay",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 118,
+    "name": "Kerala Stay 118",
+    "type": "Boutique Stay",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 119,
+    "name": "Kerala Stay 119",
+    "type": "Hostel",
+    "district": "Malappuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 120,
+    "name": "Kerala Stay 120",
+    "type": "Hostel",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 121,
+    "name": "Kerala Stay 121",
+    "type": "Boutique Stay",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 122,
+    "name": "Kerala Stay 122",
+    "type": "Hotel",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 123,
+    "name": "Kerala Stay 123",
+    "type": "Eco Lodge",
+    "district": "Idukki",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 124,
+    "name": "Kerala Stay 124",
+    "type": "Boutique Stay",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 125,
+    "name": "Kerala Stay 125",
+    "type": "Eco Lodge",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 126,
+    "name": "Kerala Stay 126",
+    "type": "Hostel",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 127,
+    "name": "Kerala Stay 127",
+    "type": "Hostel",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 128,
+    "name": "Kerala Stay 128",
+    "type": "Resort",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 129,
+    "name": "Kerala Stay 129",
+    "type": "Homestay",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 130,
+    "name": "Kerala Stay 130",
+    "type": "Hotel",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 131,
+    "name": "Kerala Stay 131",
+    "type": "Hotel",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 132,
+    "name": "Kerala Stay 132",
+    "type": "Hostel",
+    "district": "Thrissur",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 133,
+    "name": "Kerala Stay 133",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 134,
+    "name": "Kerala Stay 134",
+    "type": "Homestay",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 135,
+    "name": "Kerala Stay 135",
+    "type": "Homestay",
+    "district": "Kannur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 136,
+    "name": "Kerala Stay 136",
+    "type": "Hotel",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 137,
+    "name": "Kerala Stay 137",
+    "type": "Boutique Stay",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 138,
+    "name": "Kerala Stay 138",
+    "type": "Homestay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 139,
+    "name": "Kerala Stay 139",
+    "type": "Eco Lodge",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 140,
+    "name": "Kerala Stay 140",
+    "type": "Resort",
+    "district": "Wayanad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 141,
+    "name": "Kerala Stay 141",
+    "type": "Hostel",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 142,
+    "name": "Kerala Stay 142",
+    "type": "Eco Lodge",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 143,
+    "name": "Kerala Stay 143",
+    "type": "Resort",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 144,
+    "name": "Kerala Stay 144",
+    "type": "Boutique Stay",
+    "district": "Idukki",
+    "price_range": "\u20b96000+",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 145,
+    "name": "Kerala Stay 145",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 146,
+    "name": "Kerala Stay 146",
+    "type": "Boutique Stay",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 147,
+    "name": "Kerala Stay 147",
+    "type": "Resort",
+    "district": "Kasaragod",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 148,
+    "name": "Kerala Stay 148",
+    "type": "Hostel",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 149,
+    "name": "Kerala Stay 149",
+    "type": "Boutique Stay",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 150,
+    "name": "Kerala Stay 150",
+    "type": "Boutique Stay",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 151,
+    "name": "Kerala Stay 151",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 152,
+    "name": "Kerala Stay 152",
+    "type": "Hostel",
+    "district": "Kollam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 153,
+    "name": "Kerala Stay 153",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 154,
+    "name": "Kerala Stay 154",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 155,
+    "name": "Kerala Stay 155",
+    "type": "Hostel",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 156,
+    "name": "Kerala Stay 156",
+    "type": "Eco Lodge",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 157,
+    "name": "Kerala Stay 157",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 158,
+    "name": "Kerala Stay 158",
+    "type": "Hotel",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 159,
+    "name": "Kerala Stay 159",
+    "type": "Hotel",
+    "district": "Alappuzha",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 160,
+    "name": "Kerala Stay 160",
+    "type": "Hostel",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 161,
+    "name": "Kerala Stay 161",
+    "type": "Resort",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 162,
+    "name": "Kerala Stay 162",
+    "type": "Resort",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 163,
+    "name": "Kerala Stay 163",
+    "type": "Boutique Stay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 164,
+    "name": "Kerala Stay 164",
+    "type": "Hostel",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 165,
+    "name": "Kerala Stay 165",
+    "type": "Hostel",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 166,
+    "name": "Kerala Stay 166",
+    "type": "Eco Lodge",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 167,
+    "name": "Kerala Stay 167",
+    "type": "Eco Lodge",
+    "district": "Kannur",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 168,
+    "name": "Kerala Stay 168",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 169,
+    "name": "Kerala Stay 169",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 170,
+    "name": "Kerala Stay 170",
+    "type": "Hostel",
+    "district": "Kollam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 171,
+    "name": "Kerala Stay 171",
+    "type": "Homestay",
+    "district": "Kasaragod",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 172,
+    "name": "Kerala Stay 172",
+    "type": "Hostel",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 173,
+    "name": "Kerala Stay 173",
+    "type": "Homestay",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 174,
+    "name": "Kerala Stay 174",
+    "type": "Eco Lodge",
+    "district": "Malappuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 175,
+    "name": "Kerala Stay 175",
+    "type": "Eco Lodge",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 176,
+    "name": "Kerala Stay 176",
+    "type": "Boutique Stay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 177,
+    "name": "Kerala Stay 177",
+    "type": "Boutique Stay",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 178,
+    "name": "Kerala Stay 178",
+    "type": "Eco Lodge",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 179,
+    "name": "Kerala Stay 179",
+    "type": "Hotel",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 180,
+    "name": "Kerala Stay 180",
+    "type": "Boutique Stay",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 181,
+    "name": "Kerala Stay 181",
+    "type": "Eco Lodge",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 182,
+    "name": "Kerala Stay 182",
+    "type": "Hostel",
+    "district": "Kannur",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 183,
+    "name": "Kerala Stay 183",
+    "type": "Homestay",
+    "district": "Idukki",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 184,
+    "name": "Kerala Stay 184",
+    "type": "Resort",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 185,
+    "name": "Kerala Stay 185",
+    "type": "Resort",
+    "district": "Thrissur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 186,
+    "name": "Kerala Stay 186",
+    "type": "Resort",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 187,
+    "name": "Kerala Stay 187",
+    "type": "Homestay",
+    "district": "Kollam",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 188,
+    "name": "Kerala Stay 188",
+    "type": "Homestay",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 189,
+    "name": "Kerala Stay 189",
+    "type": "Boutique Stay",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 190,
+    "name": "Kerala Stay 190",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 191,
+    "name": "Kerala Stay 191",
+    "type": "Hotel",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 192,
+    "name": "Kerala Stay 192",
+    "type": "Hostel",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 193,
+    "name": "Kerala Stay 193",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 194,
+    "name": "Kerala Stay 194",
+    "type": "Boutique Stay",
+    "district": "Kannur",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 195,
+    "name": "Kerala Stay 195",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 196,
+    "name": "Kerala Stay 196",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 197,
+    "name": "Kerala Stay 197",
+    "type": "Eco Lodge",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 198,
+    "name": "Kerala Stay 198",
+    "type": "Resort",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 199,
+    "name": "Kerala Stay 199",
+    "type": "Boutique Stay",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 200,
+    "name": "Kerala Stay 200",
+    "type": "Hotel",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 201,
+    "name": "Kerala Stay 201",
+    "type": "Boutique Stay",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 202,
+    "name": "Kerala Stay 202",
+    "type": "Hotel",
+    "district": "Idukki",
+    "price_range": "\u20b96000+",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 203,
+    "name": "Kerala Stay 203",
+    "type": "Resort",
+    "district": "Kasaragod",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 204,
+    "name": "Kerala Stay 204",
+    "type": "Hotel",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 205,
+    "name": "Kerala Stay 205",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 206,
+    "name": "Kerala Stay 206",
+    "type": "Eco Lodge",
+    "district": "Kasaragod",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 207,
+    "name": "Kerala Stay 207",
+    "type": "Boutique Stay",
+    "district": "Thrissur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 208,
+    "name": "Kerala Stay 208",
+    "type": "Boutique Stay",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 209,
+    "name": "Kerala Stay 209",
+    "type": "Boutique Stay",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 210,
+    "name": "Kerala Stay 210",
+    "type": "Homestay",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 211,
+    "name": "Kerala Stay 211",
+    "type": "Hostel",
+    "district": "Wayanad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 212,
+    "name": "Kerala Stay 212",
+    "type": "Hotel",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 213,
+    "name": "Kerala Stay 213",
+    "type": "Eco Lodge",
+    "district": "Wayanad",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 214,
+    "name": "Kerala Stay 214",
+    "type": "Hostel",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 215,
+    "name": "Kerala Stay 215",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 216,
+    "name": "Kerala Stay 216",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 217,
+    "name": "Kerala Stay 217",
+    "type": "Hotel",
+    "district": "Kottayam",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 218,
+    "name": "Kerala Stay 218",
+    "type": "Resort",
+    "district": "Wayanad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 219,
+    "name": "Kerala Stay 219",
+    "type": "Resort",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 220,
+    "name": "Kerala Stay 220",
+    "type": "Homestay",
+    "district": "Thrissur",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 221,
+    "name": "Kerala Stay 221",
+    "type": "Eco Lodge",
+    "district": "Kasaragod",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 222,
+    "name": "Kerala Stay 222",
+    "type": "Resort",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 223,
+    "name": "Kerala Stay 223",
+    "type": "Hostel",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 224,
+    "name": "Kerala Stay 224",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 225,
+    "name": "Kerala Stay 225",
+    "type": "Hotel",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 226,
+    "name": "Kerala Stay 226",
+    "type": "Homestay",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 227,
+    "name": "Kerala Stay 227",
+    "type": "Boutique Stay",
+    "district": "Kannur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 228,
+    "name": "Kerala Stay 228",
+    "type": "Homestay",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 229,
+    "name": "Kerala Stay 229",
+    "type": "Homestay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 230,
+    "name": "Kerala Stay 230",
+    "type": "Boutique Stay",
+    "district": "Malappuram",
+    "price_range": "\u20b96000+",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 231,
+    "name": "Kerala Stay 231",
+    "type": "Eco Lodge",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 232,
+    "name": "Kerala Stay 232",
+    "type": "Eco Lodge",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 233,
+    "name": "Kerala Stay 233",
+    "type": "Boutique Stay",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 234,
+    "name": "Kerala Stay 234",
+    "type": "Resort",
+    "district": "Wayanad",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 235,
+    "name": "Kerala Stay 235",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 236,
+    "name": "Kerala Stay 236",
+    "type": "Homestay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 237,
+    "name": "Kerala Stay 237",
+    "type": "Eco Lodge",
+    "district": "Idukki",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 238,
+    "name": "Kerala Stay 238",
+    "type": "Hostel",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 239,
+    "name": "Kerala Stay 239",
+    "type": "Eco Lodge",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 240,
+    "name": "Kerala Stay 240",
+    "type": "Eco Lodge",
+    "district": "Malappuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 241,
+    "name": "Kerala Stay 241",
+    "type": "Hostel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 242,
+    "name": "Kerala Stay 242",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 243,
+    "name": "Kerala Stay 243",
+    "type": "Homestay",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 244,
+    "name": "Kerala Stay 244",
+    "type": "Homestay",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 245,
+    "name": "Kerala Stay 245",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 246,
+    "name": "Kerala Stay 246",
+    "type": "Homestay",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 247,
+    "name": "Kerala Stay 247",
+    "type": "Boutique Stay",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 248,
+    "name": "Kerala Stay 248",
+    "type": "Eco Lodge",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 249,
+    "name": "Kerala Stay 249",
+    "type": "Boutique Stay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 250,
+    "name": "Kerala Stay 250",
+    "type": "Eco Lodge",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 251,
+    "name": "Kerala Stay 251",
+    "type": "Resort",
+    "district": "Alappuzha",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 252,
+    "name": "Kerala Stay 252",
+    "type": "Hotel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 253,
+    "name": "Kerala Stay 253",
+    "type": "Boutique Stay",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 254,
+    "name": "Kerala Stay 254",
+    "type": "Hotel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 255,
+    "name": "Kerala Stay 255",
+    "type": "Hostel",
+    "district": "Alappuzha",
+    "price_range": "\u20b96000+",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 256,
+    "name": "Kerala Stay 256",
+    "type": "Boutique Stay",
+    "district": "Kollam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 257,
+    "name": "Kerala Stay 257",
+    "type": "Boutique Stay",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 258,
+    "name": "Kerala Stay 258",
+    "type": "Hotel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 259,
+    "name": "Kerala Stay 259",
+    "type": "Hotel",
+    "district": "Kannur",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 260,
+    "name": "Kerala Stay 260",
+    "type": "Hotel",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 261,
+    "name": "Kerala Stay 261",
+    "type": "Hotel",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 262,
+    "name": "Kerala Stay 262",
+    "type": "Homestay",
+    "district": "Alappuzha",
+    "price_range": "\u20b96000+",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 263,
+    "name": "Kerala Stay 263",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 264,
+    "name": "Kerala Stay 264",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 265,
+    "name": "Kerala Stay 265",
+    "type": "Homestay",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 266,
+    "name": "Kerala Stay 266",
+    "type": "Homestay",
+    "district": "Wayanad",
+    "price_range": "\u20b96000+",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 267,
+    "name": "Kerala Stay 267",
+    "type": "Resort",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 268,
+    "name": "Kerala Stay 268",
+    "type": "Eco Lodge",
+    "district": "Malappuram",
+    "price_range": "\u20b96000+",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 269,
+    "name": "Kerala Stay 269",
+    "type": "Eco Lodge",
+    "district": "Thrissur",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 270,
+    "name": "Kerala Stay 270",
+    "type": "Eco Lodge",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 271,
+    "name": "Kerala Stay 271",
+    "type": "Eco Lodge",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 272,
+    "name": "Kerala Stay 272",
+    "type": "Resort",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 273,
+    "name": "Kerala Stay 273",
+    "type": "Eco Lodge",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 274,
+    "name": "Kerala Stay 274",
+    "type": "Homestay",
+    "district": "Malappuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 275,
+    "name": "Kerala Stay 275",
+    "type": "Homestay",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 276,
+    "name": "Kerala Stay 276",
+    "type": "Hostel",
+    "district": "Kannur",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 277,
+    "name": "Kerala Stay 277",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 278,
+    "name": "Kerala Stay 278",
+    "type": "Hostel",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 279,
+    "name": "Kerala Stay 279",
+    "type": "Hotel",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 280,
+    "name": "Kerala Stay 280",
+    "type": "Hostel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 281,
+    "name": "Kerala Stay 281",
+    "type": "Homestay",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 282,
+    "name": "Kerala Stay 282",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 283,
+    "name": "Kerala Stay 283",
+    "type": "Resort",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 284,
+    "name": "Kerala Stay 284",
+    "type": "Resort",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 285,
+    "name": "Kerala Stay 285",
+    "type": "Eco Lodge",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 286,
+    "name": "Kerala Stay 286",
+    "type": "Hostel",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 287,
+    "name": "Kerala Stay 287",
+    "type": "Boutique Stay",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 288,
+    "name": "Kerala Stay 288",
+    "type": "Eco Lodge",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 289,
+    "name": "Kerala Stay 289",
+    "type": "Homestay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 290,
+    "name": "Kerala Stay 290",
+    "type": "Resort",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 291,
+    "name": "Kerala Stay 291",
+    "type": "Resort",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 292,
+    "name": "Kerala Stay 292",
+    "type": "Hostel",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 293,
+    "name": "Kerala Stay 293",
+    "type": "Homestay",
+    "district": "Alappuzha",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 294,
+    "name": "Kerala Stay 294",
+    "type": "Hostel",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 295,
+    "name": "Kerala Stay 295",
+    "type": "Resort",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 296,
+    "name": "Kerala Stay 296",
+    "type": "Resort",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 297,
+    "name": "Kerala Stay 297",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 298,
+    "name": "Kerala Stay 298",
+    "type": "Hostel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 299,
+    "name": "Kerala Stay 299",
+    "type": "Homestay",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 300,
+    "name": "Kerala Stay 300",
+    "type": "Boutique Stay",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 301,
+    "name": "Kerala Stay 301",
+    "type": "Hostel",
+    "district": "Thrissur",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 302,
+    "name": "Kerala Stay 302",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 303,
+    "name": "Kerala Stay 303",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 304,
+    "name": "Kerala Stay 304",
+    "type": "Homestay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 305,
+    "name": "Kerala Stay 305",
+    "type": "Hostel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 306,
+    "name": "Kerala Stay 306",
+    "type": "Hostel",
+    "district": "Alappuzha",
+    "price_range": "\u20b96000+",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 307,
+    "name": "Kerala Stay 307",
+    "type": "Resort",
+    "district": "Kannur",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 308,
+    "name": "Kerala Stay 308",
+    "type": "Boutique Stay",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 309,
+    "name": "Kerala Stay 309",
+    "type": "Homestay",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 310,
+    "name": "Kerala Stay 310",
+    "type": "Homestay",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 311,
+    "name": "Kerala Stay 311",
+    "type": "Eco Lodge",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 312,
+    "name": "Kerala Stay 312",
+    "type": "Hostel",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 313,
+    "name": "Kerala Stay 313",
+    "type": "Boutique Stay",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 314,
+    "name": "Kerala Stay 314",
+    "type": "Hotel",
+    "district": "Idukki",
+    "price_range": "\u20b96000+",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 315,
+    "name": "Kerala Stay 315",
+    "type": "Homestay",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 316,
+    "name": "Kerala Stay 316",
+    "type": "Boutique Stay",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 317,
+    "name": "Kerala Stay 317",
+    "type": "Hostel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 318,
+    "name": "Kerala Stay 318",
+    "type": "Resort",
+    "district": "Ernakulam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 319,
+    "name": "Kerala Stay 319",
+    "type": "Resort",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 320,
+    "name": "Kerala Stay 320",
+    "type": "Hostel",
+    "district": "Kannur",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 321,
+    "name": "Kerala Stay 321",
+    "type": "Hotel",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 322,
+    "name": "Kerala Stay 322",
+    "type": "Hotel",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 323,
+    "name": "Kerala Stay 323",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 324,
+    "name": "Kerala Stay 324",
+    "type": "Hostel",
+    "district": "Idukki",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 325,
+    "name": "Kerala Stay 325",
+    "type": "Homestay",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 326,
+    "name": "Kerala Stay 326",
+    "type": "Boutique Stay",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 327,
+    "name": "Kerala Stay 327",
+    "type": "Boutique Stay",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 328,
+    "name": "Kerala Stay 328",
+    "type": "Resort",
+    "district": "Kottayam",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 329,
+    "name": "Kerala Stay 329",
+    "type": "Eco Lodge",
+    "district": "Kannur",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 330,
+    "name": "Kerala Stay 330",
+    "type": "Eco Lodge",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 331,
+    "name": "Kerala Stay 331",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 332,
+    "name": "Kerala Stay 332",
+    "type": "Resort",
+    "district": "Kannur",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 333,
+    "name": "Kerala Stay 333",
+    "type": "Hotel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 334,
+    "name": "Kerala Stay 334",
+    "type": "Hotel",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 335,
+    "name": "Kerala Stay 335",
+    "type": "Hotel",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 336,
+    "name": "Kerala Stay 336",
+    "type": "Eco Lodge",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 337,
+    "name": "Kerala Stay 337",
+    "type": "Hotel",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 338,
+    "name": "Kerala Stay 338",
+    "type": "Hostel",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 339,
+    "name": "Kerala Stay 339",
+    "type": "Resort",
+    "district": "Idukki",
+    "price_range": "\u20b96000+",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 340,
+    "name": "Kerala Stay 340",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 341,
+    "name": "Kerala Stay 341",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 342,
+    "name": "Kerala Stay 342",
+    "type": "Hotel",
+    "district": "Alappuzha",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 343,
+    "name": "Kerala Stay 343",
+    "type": "Resort",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 344,
+    "name": "Kerala Stay 344",
+    "type": "Boutique Stay",
+    "district": "Kottayam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 345,
+    "name": "Kerala Stay 345",
+    "type": "Resort",
+    "district": "Kannur",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 346,
+    "name": "Kerala Stay 346",
+    "type": "Hotel",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 347,
+    "name": "Kerala Stay 347",
+    "type": "Hotel",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 348,
+    "name": "Kerala Stay 348",
+    "type": "Hotel",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 349,
+    "name": "Kerala Stay 349",
+    "type": "Hostel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 350,
+    "name": "Kerala Stay 350",
+    "type": "Hotel",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 351,
+    "name": "Kerala Stay 351",
+    "type": "Hotel",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 352,
+    "name": "Kerala Stay 352",
+    "type": "Boutique Stay",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 353,
+    "name": "Kerala Stay 353",
+    "type": "Boutique Stay",
+    "district": "Kollam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 354,
+    "name": "Kerala Stay 354",
+    "type": "Homestay",
+    "district": "Malappuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 355,
+    "name": "Kerala Stay 355",
+    "type": "Eco Lodge",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 356,
+    "name": "Kerala Stay 356",
+    "type": "Hostel",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 357,
+    "name": "Kerala Stay 357",
+    "type": "Hostel",
+    "district": "Wayanad",
+    "price_range": "\u20b96000+",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 358,
+    "name": "Kerala Stay 358",
+    "type": "Boutique Stay",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 359,
+    "name": "Kerala Stay 359",
+    "type": "Boutique Stay",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 360,
+    "name": "Kerala Stay 360",
+    "type": "Resort",
+    "district": "Alappuzha",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 361,
+    "name": "Kerala Stay 361",
+    "type": "Resort",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 362,
+    "name": "Kerala Stay 362",
+    "type": "Homestay",
+    "district": "Idukki",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 363,
+    "name": "Kerala Stay 363",
+    "type": "Eco Lodge",
+    "district": "Wayanad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 364,
+    "name": "Kerala Stay 364",
+    "type": "Hotel",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 365,
+    "name": "Kerala Stay 365",
+    "type": "Hotel",
+    "district": "Thrissur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 366,
+    "name": "Kerala Stay 366",
+    "type": "Resort",
+    "district": "Ernakulam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 367,
+    "name": "Kerala Stay 367",
+    "type": "Hostel",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 368,
+    "name": "Kerala Stay 368",
+    "type": "Resort",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 369,
+    "name": "Kerala Stay 369",
+    "type": "Hostel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 370,
+    "name": "Kerala Stay 370",
+    "type": "Homestay",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 371,
+    "name": "Kerala Stay 371",
+    "type": "Hotel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 372,
+    "name": "Kerala Stay 372",
+    "type": "Resort",
+    "district": "Kannur",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 373,
+    "name": "Kerala Stay 373",
+    "type": "Homestay",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 374,
+    "name": "Kerala Stay 374",
+    "type": "Eco Lodge",
+    "district": "Kollam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 375,
+    "name": "Kerala Stay 375",
+    "type": "Hostel",
+    "district": "Kannur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 376,
+    "name": "Kerala Stay 376",
+    "type": "Resort",
+    "district": "Ernakulam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 377,
+    "name": "Kerala Stay 377",
+    "type": "Eco Lodge",
+    "district": "Thrissur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 378,
+    "name": "Kerala Stay 378",
+    "type": "Homestay",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 379,
+    "name": "Kerala Stay 379",
+    "type": "Resort",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 380,
+    "name": "Kerala Stay 380",
+    "type": "Homestay",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 381,
+    "name": "Kerala Stay 381",
+    "type": "Eco Lodge",
+    "district": "Kasaragod",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 382,
+    "name": "Kerala Stay 382",
+    "type": "Resort",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 383,
+    "name": "Kerala Stay 383",
+    "type": "Boutique Stay",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 384,
+    "name": "Kerala Stay 384",
+    "type": "Resort",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b96000+",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 385,
+    "name": "Kerala Stay 385",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 386,
+    "name": "Kerala Stay 386",
+    "type": "Homestay",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 387,
+    "name": "Kerala Stay 387",
+    "type": "Eco Lodge",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 388,
+    "name": "Kerala Stay 388",
+    "type": "Hotel",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 389,
+    "name": "Kerala Stay 389",
+    "type": "Hotel",
+    "district": "Kollam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 390,
+    "name": "Kerala Stay 390",
+    "type": "Hotel",
+    "district": "Kasaragod",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 391,
+    "name": "Kerala Stay 391",
+    "type": "Boutique Stay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 392,
+    "name": "Kerala Stay 392",
+    "type": "Hotel",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 393,
+    "name": "Kerala Stay 393",
+    "type": "Boutique Stay",
+    "district": "Malappuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 394,
+    "name": "Kerala Stay 394",
+    "type": "Hostel",
+    "district": "Thrissur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 395,
+    "name": "Kerala Stay 395",
+    "type": "Boutique Stay",
+    "district": "Wayanad",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 396,
+    "name": "Kerala Stay 396",
+    "type": "Boutique Stay",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 397,
+    "name": "Kerala Stay 397",
+    "type": "Boutique Stay",
+    "district": "Wayanad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 398,
+    "name": "Kerala Stay 398",
+    "type": "Hotel",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 399,
+    "name": "Kerala Stay 399",
+    "type": "Homestay",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 400,
+    "name": "Kerala Stay 400",
+    "type": "Boutique Stay",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 401,
+    "name": "Kerala Stay 401",
+    "type": "Homestay",
+    "district": "Thrissur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 402,
+    "name": "Kerala Stay 402",
+    "type": "Eco Lodge",
+    "district": "Idukki",
+    "price_range": "\u20b96000+",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 403,
+    "name": "Kerala Stay 403",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 404,
+    "name": "Kerala Stay 404",
+    "type": "Hostel",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 405,
+    "name": "Kerala Stay 405",
+    "type": "Eco Lodge",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 406,
+    "name": "Kerala Stay 406",
+    "type": "Resort",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 407,
+    "name": "Kerala Stay 407",
+    "type": "Hotel",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 408,
+    "name": "Kerala Stay 408",
+    "type": "Hostel",
+    "district": "Kottayam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 409,
+    "name": "Kerala Stay 409",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 410,
+    "name": "Kerala Stay 410",
+    "type": "Homestay",
+    "district": "Kollam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 411,
+    "name": "Kerala Stay 411",
+    "type": "Hotel",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 412,
+    "name": "Kerala Stay 412",
+    "type": "Hostel",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 413,
+    "name": "Kerala Stay 413",
+    "type": "Resort",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 414,
+    "name": "Kerala Stay 414",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 415,
+    "name": "Kerala Stay 415",
+    "type": "Homestay",
+    "district": "Kasaragod",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 416,
+    "name": "Kerala Stay 416",
+    "type": "Homestay",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 417,
+    "name": "Kerala Stay 417",
+    "type": "Boutique Stay",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 418,
+    "name": "Kerala Stay 418",
+    "type": "Hotel",
+    "district": "Wayanad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 419,
+    "name": "Kerala Stay 419",
+    "type": "Resort",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 420,
+    "name": "Kerala Stay 420",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 421,
+    "name": "Kerala Stay 421",
+    "type": "Hotel",
+    "district": "Kollam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 422,
+    "name": "Kerala Stay 422",
+    "type": "Boutique Stay",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 423,
+    "name": "Kerala Stay 423",
+    "type": "Hotel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 424,
+    "name": "Kerala Stay 424",
+    "type": "Resort",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 425,
+    "name": "Kerala Stay 425",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 426,
+    "name": "Kerala Stay 426",
+    "type": "Homestay",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 427,
+    "name": "Kerala Stay 427",
+    "type": "Boutique Stay",
+    "district": "Kollam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 428,
+    "name": "Kerala Stay 428",
+    "type": "Boutique Stay",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 429,
+    "name": "Kerala Stay 429",
+    "type": "Hotel",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 430,
+    "name": "Kerala Stay 430",
+    "type": "Homestay",
+    "district": "Idukki",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 431,
+    "name": "Kerala Stay 431",
+    "type": "Eco Lodge",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 432,
+    "name": "Kerala Stay 432",
+    "type": "Boutique Stay",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 433,
+    "name": "Kerala Stay 433",
+    "type": "Boutique Stay",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 434,
+    "name": "Kerala Stay 434",
+    "type": "Hotel",
+    "district": "Kannur",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 435,
+    "name": "Kerala Stay 435",
+    "type": "Boutique Stay",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 436,
+    "name": "Kerala Stay 436",
+    "type": "Hostel",
+    "district": "Kannur",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 437,
+    "name": "Kerala Stay 437",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 438,
+    "name": "Kerala Stay 438",
+    "type": "Eco Lodge",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 439,
+    "name": "Kerala Stay 439",
+    "type": "Boutique Stay",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 440,
+    "name": "Kerala Stay 440",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 441,
+    "name": "Kerala Stay 441",
+    "type": "Hostel",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 442,
+    "name": "Kerala Stay 442",
+    "type": "Hotel",
+    "district": "Kollam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 443,
+    "name": "Kerala Stay 443",
+    "type": "Hostel",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 444,
+    "name": "Kerala Stay 444",
+    "type": "Boutique Stay",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 445,
+    "name": "Kerala Stay 445",
+    "type": "Hostel",
+    "district": "Kottayam",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 446,
+    "name": "Kerala Stay 446",
+    "type": "Resort",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 447,
+    "name": "Kerala Stay 447",
+    "type": "Hotel",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 448,
+    "name": "Kerala Stay 448",
+    "type": "Homestay",
+    "district": "Idukki",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 449,
+    "name": "Kerala Stay 449",
+    "type": "Resort",
+    "district": "Kannur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 450,
+    "name": "Kerala Stay 450",
+    "type": "Boutique Stay",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 451,
+    "name": "Kerala Stay 451",
+    "type": "Hostel",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 452,
+    "name": "Kerala Stay 452",
+    "type": "Boutique Stay",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 453,
+    "name": "Kerala Stay 453",
+    "type": "Homestay",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 454,
+    "name": "Kerala Stay 454",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 455,
+    "name": "Kerala Stay 455",
+    "type": "Hostel",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 456,
+    "name": "Kerala Stay 456",
+    "type": "Hotel",
+    "district": "Thrissur",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 457,
+    "name": "Kerala Stay 457",
+    "type": "Homestay",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 458,
+    "name": "Kerala Stay 458",
+    "type": "Hotel",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 459,
+    "name": "Kerala Stay 459",
+    "type": "Boutique Stay",
+    "district": "Kasaragod",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 460,
+    "name": "Kerala Stay 460",
+    "type": "Resort",
+    "district": "Thrissur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 461,
+    "name": "Kerala Stay 461",
+    "type": "Boutique Stay",
+    "district": "Wayanad",
+    "price_range": "\u20b96000+",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 462,
+    "name": "Kerala Stay 462",
+    "type": "Eco Lodge",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 463,
+    "name": "Kerala Stay 463",
+    "type": "Homestay",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 464,
+    "name": "Kerala Stay 464",
+    "type": "Hotel",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 465,
+    "name": "Kerala Stay 465",
+    "type": "Resort",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 466,
+    "name": "Kerala Stay 466",
+    "type": "Resort",
+    "district": "Alappuzha",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 467,
+    "name": "Kerala Stay 467",
+    "type": "Homestay",
+    "district": "Wayanad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 468,
+    "name": "Kerala Stay 468",
+    "type": "Boutique Stay",
+    "district": "Ernakulam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 469,
+    "name": "Kerala Stay 469",
+    "type": "Hotel",
+    "district": "Kottayam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 470,
+    "name": "Kerala Stay 470",
+    "type": "Resort",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 471,
+    "name": "Kerala Stay 471",
+    "type": "Hostel",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 472,
+    "name": "Kerala Stay 472",
+    "type": "Boutique Stay",
+    "district": "Thrissur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 473,
+    "name": "Kerala Stay 473",
+    "type": "Eco Lodge",
+    "district": "Kottayam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 474,
+    "name": "Kerala Stay 474",
+    "type": "Resort",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 475,
+    "name": "Kerala Stay 475",
+    "type": "Eco Lodge",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 476,
+    "name": "Kerala Stay 476",
+    "type": "Boutique Stay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 477,
+    "name": "Kerala Stay 477",
+    "type": "Boutique Stay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 478,
+    "name": "Kerala Stay 478",
+    "type": "Hotel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 479,
+    "name": "Kerala Stay 479",
+    "type": "Resort",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 480,
+    "name": "Kerala Stay 480",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 481,
+    "name": "Kerala Stay 481",
+    "type": "Homestay",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 482,
+    "name": "Kerala Stay 482",
+    "type": "Homestay",
+    "district": "Kannur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 483,
+    "name": "Kerala Stay 483",
+    "type": "Resort",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 484,
+    "name": "Kerala Stay 484",
+    "type": "Hostel",
+    "district": "Malappuram",
+    "price_range": "\u20b96000+",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 485,
+    "name": "Kerala Stay 485",
+    "type": "Eco Lodge",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 486,
+    "name": "Kerala Stay 486",
+    "type": "Resort",
+    "district": "Kottayam",
+    "price_range": "\u20b96000+",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 487,
+    "name": "Kerala Stay 487",
+    "type": "Hotel",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 488,
+    "name": "Kerala Stay 488",
+    "type": "Hostel",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 489,
+    "name": "Kerala Stay 489",
+    "type": "Hotel",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 490,
+    "name": "Kerala Stay 490",
+    "type": "Hotel",
+    "district": "Idukki",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 491,
+    "name": "Kerala Stay 491",
+    "type": "Hotel",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 492,
+    "name": "Kerala Stay 492",
+    "type": "Homestay",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 493,
+    "name": "Kerala Stay 493",
+    "type": "Homestay",
+    "district": "Kottayam",
+    "price_range": "\u20b96000+",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 494,
+    "name": "Kerala Stay 494",
+    "type": "Resort",
+    "district": "Kannur",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 495,
+    "name": "Kerala Stay 495",
+    "type": "Hotel",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 496,
+    "name": "Kerala Stay 496",
+    "type": "Resort",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 497,
+    "name": "Kerala Stay 497",
+    "type": "Hotel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 498,
+    "name": "Kerala Stay 498",
+    "type": "Boutique Stay",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 499,
+    "name": "Kerala Stay 499",
+    "type": "Eco Lodge",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 500,
+    "name": "Kerala Stay 500",
+    "type": "Hotel",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 501,
+    "name": "Kerala Stay 501",
+    "type": "Boutique Stay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 502,
+    "name": "Kerala Stay 502",
+    "type": "Hotel",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 503,
+    "name": "Kerala Stay 503",
+    "type": "Boutique Stay",
+    "district": "Alappuzha",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 504,
+    "name": "Kerala Stay 504",
+    "type": "Resort",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 505,
+    "name": "Kerala Stay 505",
+    "type": "Hotel",
+    "district": "Kollam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 506,
+    "name": "Kerala Stay 506",
+    "type": "Boutique Stay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 507,
+    "name": "Kerala Stay 507",
+    "type": "Eco Lodge",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 508,
+    "name": "Kerala Stay 508",
+    "type": "Hostel",
+    "district": "Kasaragod",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 509,
+    "name": "Kerala Stay 509",
+    "type": "Hotel",
+    "district": "Kollam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 510,
+    "name": "Kerala Stay 510",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 511,
+    "name": "Kerala Stay 511",
+    "type": "Homestay",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 512,
+    "name": "Kerala Stay 512",
+    "type": "Hostel",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 513,
+    "name": "Kerala Stay 513",
+    "type": "Boutique Stay",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 514,
+    "name": "Kerala Stay 514",
+    "type": "Boutique Stay",
+    "district": "Ernakulam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 515,
+    "name": "Kerala Stay 515",
+    "type": "Resort",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 516,
+    "name": "Kerala Stay 516",
+    "type": "Homestay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 517,
+    "name": "Kerala Stay 517",
+    "type": "Eco Lodge",
+    "district": "Wayanad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 518,
+    "name": "Kerala Stay 518",
+    "type": "Resort",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 519,
+    "name": "Kerala Stay 519",
+    "type": "Boutique Stay",
+    "district": "Ernakulam",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 520,
+    "name": "Kerala Stay 520",
+    "type": "Hotel",
+    "district": "Alappuzha",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 521,
+    "name": "Kerala Stay 521",
+    "type": "Hotel",
+    "district": "Kollam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 522,
+    "name": "Kerala Stay 522",
+    "type": "Boutique Stay",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 523,
+    "name": "Kerala Stay 523",
+    "type": "Boutique Stay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 524,
+    "name": "Kerala Stay 524",
+    "type": "Eco Lodge",
+    "district": "Malappuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 525,
+    "name": "Kerala Stay 525",
+    "type": "Eco Lodge",
+    "district": "Kollam",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 526,
+    "name": "Kerala Stay 526",
+    "type": "Eco Lodge",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 527,
+    "name": "Kerala Stay 527",
+    "type": "Hotel",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b96000+",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 528,
+    "name": "Kerala Stay 528",
+    "type": "Eco Lodge",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 529,
+    "name": "Kerala Stay 529",
+    "type": "Homestay",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 530,
+    "name": "Kerala Stay 530",
+    "type": "Hotel",
+    "district": "Wayanad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 531,
+    "name": "Kerala Stay 531",
+    "type": "Hostel",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 532,
+    "name": "Kerala Stay 532",
+    "type": "Homestay",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 533,
+    "name": "Kerala Stay 533",
+    "type": "Hostel",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 534,
+    "name": "Kerala Stay 534",
+    "type": "Homestay",
+    "district": "Ernakulam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 535,
+    "name": "Kerala Stay 535",
+    "type": "Homestay",
+    "district": "Malappuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 536,
+    "name": "Kerala Stay 536",
+    "type": "Resort",
+    "district": "Kasaragod",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 537,
+    "name": "Kerala Stay 537",
+    "type": "Hostel",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 538,
+    "name": "Kerala Stay 538",
+    "type": "Resort",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 539,
+    "name": "Kerala Stay 539",
+    "type": "Eco Lodge",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 540,
+    "name": "Kerala Stay 540",
+    "type": "Eco Lodge",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 541,
+    "name": "Kerala Stay 541",
+    "type": "Hostel",
+    "district": "Wayanad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 542,
+    "name": "Kerala Stay 542",
+    "type": "Hotel",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 543,
+    "name": "Kerala Stay 543",
+    "type": "Hotel",
+    "district": "Wayanad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 544,
+    "name": "Kerala Stay 544",
+    "type": "Homestay",
+    "district": "Palakkad",
+    "price_range": "\u20b96000+",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 545,
+    "name": "Kerala Stay 545",
+    "type": "Hostel",
+    "district": "Malappuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 546,
+    "name": "Kerala Stay 546",
+    "type": "Resort",
+    "district": "Wayanad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 547,
+    "name": "Kerala Stay 547",
+    "type": "Hostel",
+    "district": "Wayanad",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 548,
+    "name": "Kerala Stay 548",
+    "type": "Boutique Stay",
+    "district": "Wayanad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 549,
+    "name": "Kerala Stay 549",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 550,
+    "name": "Kerala Stay 550",
+    "type": "Homestay",
+    "district": "Wayanad",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 551,
+    "name": "Kerala Stay 551",
+    "type": "Resort",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 552,
+    "name": "Kerala Stay 552",
+    "type": "Boutique Stay",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 553,
+    "name": "Kerala Stay 553",
+    "type": "Eco Lodge",
+    "district": "Alappuzha",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 554,
+    "name": "Kerala Stay 554",
+    "type": "Homestay",
+    "district": "Thrissur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 555,
+    "name": "Kerala Stay 555",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 556,
+    "name": "Kerala Stay 556",
+    "type": "Eco Lodge",
+    "district": "Kollam",
+    "price_range": "\u20b96000+",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 557,
+    "name": "Kerala Stay 557",
+    "type": "Eco Lodge",
+    "district": "Kasaragod",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 558,
+    "name": "Kerala Stay 558",
+    "type": "Hostel",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 559,
+    "name": "Kerala Stay 559",
+    "type": "Hotel",
+    "district": "Thrissur",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 560,
+    "name": "Kerala Stay 560",
+    "type": "Hotel",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 561,
+    "name": "Kerala Stay 561",
+    "type": "Hotel",
+    "district": "Kozhikode",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 562,
+    "name": "Kerala Stay 562",
+    "type": "Eco Lodge",
+    "district": "Kasaragod",
+    "price_range": "\u20b96000+",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 563,
+    "name": "Kerala Stay 563",
+    "type": "Hotel",
+    "district": "Kollam",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 564,
+    "name": "Kerala Stay 564",
+    "type": "Homestay",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 565,
+    "name": "Kerala Stay 565",
+    "type": "Hotel",
+    "district": "Alappuzha",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 566,
+    "name": "Kerala Stay 566",
+    "type": "Eco Lodge",
+    "district": "Malappuram",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 567,
+    "name": "Kerala Stay 567",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 568,
+    "name": "Kerala Stay 568",
+    "type": "Homestay",
+    "district": "Malappuram",
+    "price_range": "\u20b96000+",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 569,
+    "name": "Kerala Stay 569",
+    "type": "Hotel",
+    "district": "Malappuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 570,
+    "name": "Kerala Stay 570",
+    "type": "Eco Lodge",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 571,
+    "name": "Kerala Stay 571",
+    "type": "Hostel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 572,
+    "name": "Kerala Stay 572",
+    "type": "Homestay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 573,
+    "name": "Kerala Stay 573",
+    "type": "Resort",
+    "district": "Palakkad",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 574,
+    "name": "Kerala Stay 574",
+    "type": "Boutique Stay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 575,
+    "name": "Kerala Stay 575",
+    "type": "Eco Lodge",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 576,
+    "name": "Kerala Stay 576",
+    "type": "Resort",
+    "district": "Thrissur",
+    "price_range": "\u20b96000+",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 577,
+    "name": "Kerala Stay 577",
+    "type": "Hostel",
+    "district": "Ernakulam",
+    "price_range": "\u20b91500-3000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 578,
+    "name": "Kerala Stay 578",
+    "type": "Hotel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 579,
+    "name": "Kerala Stay 579",
+    "type": "Eco Lodge",
+    "district": "Pathanamthitta",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 580,
+    "name": "Kerala Stay 580",
+    "type": "Hostel",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 581,
+    "name": "Kerala Stay 581",
+    "type": "Boutique Stay",
+    "district": "Thrissur",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 582,
+    "name": "Kerala Stay 582",
+    "type": "Hotel",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 583,
+    "name": "Kerala Stay 583",
+    "type": "Boutique Stay",
+    "district": "Ernakulam",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 584,
+    "name": "Kerala Stay 584",
+    "type": "Hostel",
+    "district": "Idukki",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 585,
+    "name": "Kerala Stay 585",
+    "type": "Hostel",
+    "district": "Palakkad",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 586,
+    "name": "Kerala Stay 586",
+    "type": "Boutique Stay",
+    "district": "Idukki",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 587,
+    "name": "Kerala Stay 587",
+    "type": "Eco Lodge",
+    "district": "Kannur",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 588,
+    "name": "Kerala Stay 588",
+    "type": "Hotel",
+    "district": "Kannur",
+    "price_range": "\u20b96000+",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 589,
+    "name": "Kerala Stay 589",
+    "type": "Resort",
+    "district": "Kannur",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 590,
+    "name": "Kerala Stay 590",
+    "type": "Homestay",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 591,
+    "name": "Kerala Stay 591",
+    "type": "Resort",
+    "district": "Kozhikode",
+    "price_range": "\u20b96000+",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 592,
+    "name": "Kerala Stay 592",
+    "type": "Eco Lodge",
+    "district": "Kozhikode",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 593,
+    "name": "Kerala Stay 593",
+    "type": "Eco Lodge",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 594,
+    "name": "Kerala Stay 594",
+    "type": "Boutique Stay",
+    "district": "Thrissur",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 595,
+    "name": "Kerala Stay 595",
+    "type": "Hostel",
+    "district": "Thiruvananthapuram",
+    "price_range": "\u20b93000-6000",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 596,
+    "name": "Kerala Stay 596",
+    "type": "Resort",
+    "district": "Malappuram",
+    "price_range": "\u20b96000+",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 597,
+    "name": "Kerala Stay 597",
+    "type": "Boutique Stay",
+    "district": "Kottayam",
+    "price_range": "\u20b91500-3000",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 598,
+    "name": "Kerala Stay 598",
+    "type": "Resort",
+    "district": "Palakkad",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 599,
+    "name": "Kerala Stay 599",
+    "type": "Eco Lodge",
+    "district": "Alappuzha",
+    "price_range": "\u20b9800-1500",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 600,
+    "name": "Kerala Stay 600",
+    "type": "Hostel",
+    "district": "Kozhikode",
+    "price_range": "\u20b93000-6000",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  }
+]

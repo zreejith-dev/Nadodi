@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "name": "Hidden Nature Spot 1",
+    "type": "Local Trek",
+    "district": "Wayanad",
+    "difficulty": "Hard",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 2,
+    "name": "Hidden Nature Spot 2",
+    "type": "Hidden Viewpoint",
+    "district": "Idukki",
+    "difficulty": "Hard",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 3,
+    "name": "Hidden Nature Spot 3",
+    "type": "Secret Waterfall",
+    "district": "Kasaragod",
+    "difficulty": "Easy",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 4,
+    "name": "Hidden Nature Spot 4",
+    "type": "Hidden Viewpoint",
+    "district": "Kozhikode",
+    "difficulty": "Hard",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 5,
+    "name": "Hidden Nature Spot 5",
+    "type": "Local Trek",
+    "district": "Ernakulam",
+    "difficulty": "Hard",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 6,
+    "name": "Hidden Nature Spot 6",
+    "type": "Secret Waterfall",
+    "district": "Thrissur",
+    "difficulty": "Hard",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 7,
+    "name": "Hidden Nature Spot 7",
+    "type": "Local Trek",
+    "district": "Kozhikode",
+    "difficulty": "Moderate",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 8,
+    "name": "Hidden Nature Spot 8",
+    "type": "Hidden Viewpoint",
+    "district": "Idukki",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 9,
+    "name": "Hidden Nature Spot 9",
+    "type": "Hidden Viewpoint",
+    "district": "Malappuram",
+    "difficulty": "Hard",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 10,
+    "name": "Hidden Nature Spot 10",
+    "type": "Local Trek",
+    "district": "Alappuzha",
+    "difficulty": "Hard",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 11,
+    "name": "Hidden Nature Spot 11",
+    "type": "Secret Waterfall",
+    "district": "Wayanad",
+    "difficulty": "Moderate",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 12,
+    "name": "Hidden Nature Spot 12",
+    "type": "Local Trek",
+    "district": "Kasaragod",
+    "difficulty": "Hard",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 13,
+    "name": "Hidden Nature Spot 13",
+    "type": "Secret Waterfall",
+    "district": "Thrissur",
+    "difficulty": "Moderate",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 14,
+    "name": "Hidden Nature Spot 14",
+    "type": "Hidden Viewpoint",
+    "district": "Idukki",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 15,
+    "name": "Hidden Nature Spot 15",
+    "type": "Hidden Viewpoint",
+    "district": "Kottayam",
+    "difficulty": "Hard",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 16,
+    "name": "Hidden Nature Spot 16",
+    "type": "Village Lake",
+    "district": "Alappuzha",
+    "difficulty": "Moderate",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 17,
+    "name": "Hidden Nature Spot 17",
+    "type": "Village Lake",
+    "district": "Kannur",
+    "difficulty": "Moderate",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 18,
+    "name": "Hidden Nature Spot 18",
+    "type": "Secret Waterfall",
+    "district": "Wayanad",
+    "difficulty": "Moderate",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 19,
+    "name": "Hidden Nature Spot 19",
+    "type": "Village Lake",
+    "district": "Kottayam",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 20,
+    "name": "Hidden Nature Spot 20",
+    "type": "Hidden Viewpoint",
+    "district": "Thiruvananthapuram",
+    "difficulty": "Moderate",
+    "rating": 4.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 21,
+    "name": "Hidden Nature Spot 21",
+    "type": "Village Lake",
+    "district": "Alappuzha",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 22,
+    "name": "Hidden Nature Spot 22",
+    "type": "Local Trek",
+    "district": "Thrissur",
+    "difficulty": "Moderate",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 23,
+    "name": "Hidden Nature Spot 23",
+    "type": "Forest Trail",
+    "district": "Palakkad",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 24,
+    "name": "Hidden Nature Spot 24",
+    "type": "Secret Waterfall",
+    "district": "Palakkad",
+    "difficulty": "Hard",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 25,
+    "name": "Hidden Nature Spot 25",
+    "type": "Village Lake",
+    "district": "Kannur",
+    "difficulty": "Hard",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 26,
+    "name": "Hidden Nature Spot 26",
+    "type": "Local Trek",
+    "district": "Ernakulam",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 27,
+    "name": "Hidden Nature Spot 27",
+    "type": "Secret Waterfall",
+    "district": "Idukki",
+    "difficulty": "Hard",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 28,
+    "name": "Hidden Nature Spot 28",
+    "type": "Local Trek",
+    "district": "Palakkad",
+    "difficulty": "Easy",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 29,
+    "name": "Hidden Nature Spot 29",
+    "type": "Forest Trail",
+    "district": "Thrissur",
+    "difficulty": "Moderate",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 30,
+    "name": "Hidden Nature Spot 30",
+    "type": "Local Trek",
+    "district": "Ernakulam",
+    "difficulty": "Easy",
+    "rating": 4.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 31,
+    "name": "Hidden Nature Spot 31",
+    "type": "Hidden Viewpoint",
+    "district": "Kasaragod",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 32,
+    "name": "Hidden Nature Spot 32",
+    "type": "Village Lake",
+    "district": "Wayanad",
+    "difficulty": "Easy",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 33,
+    "name": "Hidden Nature Spot 33",
+    "type": "Forest Trail",
+    "district": "Palakkad",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 34,
+    "name": "Hidden Nature Spot 34",
+    "type": "Village Lake",
+    "district": "Palakkad",
+    "difficulty": "Moderate",
+    "rating": 4.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 35,
+    "name": "Hidden Nature Spot 35",
+    "type": "Forest Trail",
+    "district": "Palakkad",
+    "difficulty": "Hard",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 36,
+    "name": "Hidden Nature Spot 36",
+    "type": "Village Lake",
+    "district": "Kannur",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 37,
+    "name": "Hidden Nature Spot 37",
+    "type": "Secret Waterfall",
+    "district": "Thrissur",
+    "difficulty": "Hard",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 38,
+    "name": "Hidden Nature Spot 38",
+    "type": "Forest Trail",
+    "district": "Alappuzha",
+    "difficulty": "Hard",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 39,
+    "name": "Hidden Nature Spot 39",
+    "type": "Secret Waterfall",
+    "district": "Thrissur",
+    "difficulty": "Easy",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 40,
+    "name": "Hidden Nature Spot 40",
+    "type": "Secret Waterfall",
+    "district": "Kozhikode",
+    "difficulty": "Easy",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 41,
+    "name": "Hidden Nature Spot 41",
+    "type": "Hidden Viewpoint",
+    "district": "Kasaragod",
+    "difficulty": "Easy",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 42,
+    "name": "Hidden Nature Spot 42",
+    "type": "Hidden Viewpoint",
+    "district": "Kannur",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 43,
+    "name": "Hidden Nature Spot 43",
+    "type": "Local Trek",
+    "district": "Malappuram",
+    "difficulty": "Hard",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 44,
+    "name": "Hidden Nature Spot 44",
+    "type": "Forest Trail",
+    "district": "Pathanamthitta",
+    "difficulty": "Easy",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 45,
+    "name": "Hidden Nature Spot 45",
+    "type": "Secret Waterfall",
+    "district": "Ernakulam",
+    "difficulty": "Hard",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 46,
+    "name": "Hidden Nature Spot 46",
+    "type": "Village Lake",
+    "district": "Kollam",
+    "difficulty": "Moderate",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 47,
+    "name": "Hidden Nature Spot 47",
+    "type": "Secret Waterfall",
+    "district": "Kollam",
+    "difficulty": "Hard",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 48,
+    "name": "Hidden Nature Spot 48",
+    "type": "Forest Trail",
+    "district": "Kasaragod",
+    "difficulty": "Hard",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 49,
+    "name": "Hidden Nature Spot 49",
+    "type": "Secret Waterfall",
+    "district": "Kollam",
+    "difficulty": "Hard",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 50,
+    "name": "Hidden Nature Spot 50",
+    "type": "Hidden Viewpoint",
+    "district": "Palakkad",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 51,
+    "name": "Hidden Nature Spot 51",
+    "type": "Secret Waterfall",
+    "district": "Kannur",
+    "difficulty": "Moderate",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 52,
+    "name": "Hidden Nature Spot 52",
+    "type": "Secret Waterfall",
+    "district": "Pathanamthitta",
+    "difficulty": "Moderate",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 53,
+    "name": "Hidden Nature Spot 53",
+    "type": "Forest Trail",
+    "district": "Kasaragod",
+    "difficulty": "Hard",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 54,
+    "name": "Hidden Nature Spot 54",
+    "type": "Secret Waterfall",
+    "district": "Wayanad",
+    "difficulty": "Moderate",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 55,
+    "name": "Hidden Nature Spot 55",
+    "type": "Secret Waterfall",
+    "district": "Thrissur",
+    "difficulty": "Moderate",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 56,
+    "name": "Hidden Nature Spot 56",
+    "type": "Secret Waterfall",
+    "district": "Alappuzha",
+    "difficulty": "Moderate",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 57,
+    "name": "Hidden Nature Spot 57",
+    "type": "Village Lake",
+    "district": "Malappuram",
+    "difficulty": "Moderate",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 58,
+    "name": "Hidden Nature Spot 58",
+    "type": "Secret Waterfall",
+    "district": "Wayanad",
+    "difficulty": "Hard",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 59,
+    "name": "Hidden Nature Spot 59",
+    "type": "Local Trek",
+    "district": "Kasaragod",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 60,
+    "name": "Hidden Nature Spot 60",
+    "type": "Village Lake",
+    "district": "Palakkad",
+    "difficulty": "Moderate",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 61,
+    "name": "Hidden Nature Spot 61",
+    "type": "Secret Waterfall",
+    "district": "Kollam",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 62,
+    "name": "Hidden Nature Spot 62",
+    "type": "Forest Trail",
+    "district": "Kannur",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 63,
+    "name": "Hidden Nature Spot 63",
+    "type": "Local Trek",
+    "district": "Ernakulam",
+    "difficulty": "Hard",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 64,
+    "name": "Hidden Nature Spot 64",
+    "type": "Secret Waterfall",
+    "district": "Kollam",
+    "difficulty": "Hard",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 65,
+    "name": "Hidden Nature Spot 65",
+    "type": "Local Trek",
+    "district": "Palakkad",
+    "difficulty": "Hard",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 66,
+    "name": "Hidden Nature Spot 66",
+    "type": "Forest Trail",
+    "district": "Pathanamthitta",
+    "difficulty": "Easy",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 67,
+    "name": "Hidden Nature Spot 67",
+    "type": "Secret Waterfall",
+    "district": "Wayanad",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 68,
+    "name": "Hidden Nature Spot 68",
+    "type": "Local Trek",
+    "district": "Palakkad",
+    "difficulty": "Hard",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 69,
+    "name": "Hidden Nature Spot 69",
+    "type": "Village Lake",
+    "district": "Malappuram",
+    "difficulty": "Easy",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 70,
+    "name": "Hidden Nature Spot 70",
+    "type": "Village Lake",
+    "district": "Malappuram",
+    "difficulty": "Hard",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 71,
+    "name": "Hidden Nature Spot 71",
+    "type": "Hidden Viewpoint",
+    "district": "Kottayam",
+    "difficulty": "Moderate",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 72,
+    "name": "Hidden Nature Spot 72",
+    "type": "Local Trek",
+    "district": "Kozhikode",
+    "difficulty": "Hard",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 73,
+    "name": "Hidden Nature Spot 73",
+    "type": "Forest Trail",
+    "district": "Idukki",
+    "difficulty": "Moderate",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 74,
+    "name": "Hidden Nature Spot 74",
+    "type": "Local Trek",
+    "district": "Kottayam",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 75,
+    "name": "Hidden Nature Spot 75",
+    "type": "Village Lake",
+    "district": "Malappuram",
+    "difficulty": "Easy",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 76,
+    "name": "Hidden Nature Spot 76",
+    "type": "Village Lake",
+    "district": "Kannur",
+    "difficulty": "Moderate",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 77,
+    "name": "Hidden Nature Spot 77",
+    "type": "Hidden Viewpoint",
+    "district": "Alappuzha",
+    "difficulty": "Hard",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 78,
+    "name": "Hidden Nature Spot 78",
+    "type": "Local Trek",
+    "district": "Thrissur",
+    "difficulty": "Hard",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 79,
+    "name": "Hidden Nature Spot 79",
+    "type": "Forest Trail",
+    "district": "Palakkad",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 80,
+    "name": "Hidden Nature Spot 80",
+    "type": "Village Lake",
+    "district": "Kannur",
+    "difficulty": "Hard",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 81,
+    "name": "Hidden Nature Spot 81",
+    "type": "Local Trek",
+    "district": "Kannur",
+    "difficulty": "Easy",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 82,
+    "name": "Hidden Nature Spot 82",
+    "type": "Hidden Viewpoint",
+    "district": "Kasaragod",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 83,
+    "name": "Hidden Nature Spot 83",
+    "type": "Hidden Viewpoint",
+    "district": "Alappuzha",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 84,
+    "name": "Hidden Nature Spot 84",
+    "type": "Forest Trail",
+    "district": "Alappuzha",
+    "difficulty": "Moderate",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 85,
+    "name": "Hidden Nature Spot 85",
+    "type": "Local Trek",
+    "district": "Pathanamthitta",
+    "difficulty": "Hard",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 86,
+    "name": "Hidden Nature Spot 86",
+    "type": "Secret Waterfall",
+    "district": "Alappuzha",
+    "difficulty": "Hard",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 87,
+    "name": "Hidden Nature Spot 87",
+    "type": "Forest Trail",
+    "district": "Kasaragod",
+    "difficulty": "Easy",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 88,
+    "name": "Hidden Nature Spot 88",
+    "type": "Hidden Viewpoint",
+    "district": "Palakkad",
+    "difficulty": "Moderate",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 89,
+    "name": "Hidden Nature Spot 89",
+    "type": "Secret Waterfall",
+    "district": "Malappuram",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 90,
+    "name": "Hidden Nature Spot 90",
+    "type": "Village Lake",
+    "district": "Idukki",
+    "difficulty": "Hard",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 91,
+    "name": "Hidden Nature Spot 91",
+    "type": "Village Lake",
+    "district": "Idukki",
+    "difficulty": "Easy",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 92,
+    "name": "Hidden Nature Spot 92",
+    "type": "Secret Waterfall",
+    "district": "Alappuzha",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 93,
+    "name": "Hidden Nature Spot 93",
+    "type": "Hidden Viewpoint",
+    "district": "Kottayam",
+    "difficulty": "Hard",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 94,
+    "name": "Hidden Nature Spot 94",
+    "type": "Secret Waterfall",
+    "district": "Kottayam",
+    "difficulty": "Moderate",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 95,
+    "name": "Hidden Nature Spot 95",
+    "type": "Secret Waterfall",
+    "district": "Wayanad",
+    "difficulty": "Hard",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 96,
+    "name": "Hidden Nature Spot 96",
+    "type": "Secret Waterfall",
+    "district": "Kannur",
+    "difficulty": "Hard",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 97,
+    "name": "Hidden Nature Spot 97",
+    "type": "Secret Waterfall",
+    "district": "Malappuram",
+    "difficulty": "Moderate",
+    "rating": 4.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 98,
+    "name": "Hidden Nature Spot 98",
+    "type": "Forest Trail",
+    "district": "Wayanad",
+    "difficulty": "Hard",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 99,
+    "name": "Hidden Nature Spot 99",
+    "type": "Secret Waterfall",
+    "district": "Ernakulam",
+    "difficulty": "Easy",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 100,
+    "name": "Hidden Nature Spot 100",
+    "type": "Local Trek",
+    "district": "Thrissur",
+    "difficulty": "Moderate",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 101,
+    "name": "Hidden Nature Spot 101",
+    "type": "Hidden Viewpoint",
+    "district": "Wayanad",
+    "difficulty": "Moderate",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 102,
+    "name": "Hidden Nature Spot 102",
+    "type": "Hidden Viewpoint",
+    "district": "Wayanad",
+    "difficulty": "Hard",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 103,
+    "name": "Hidden Nature Spot 103",
+    "type": "Secret Waterfall",
+    "district": "Thrissur",
+    "difficulty": "Moderate",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 104,
+    "name": "Hidden Nature Spot 104",
+    "type": "Forest Trail",
+    "district": "Kozhikode",
+    "difficulty": "Hard",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 105,
+    "name": "Hidden Nature Spot 105",
+    "type": "Hidden Viewpoint",
+    "district": "Kasaragod",
+    "difficulty": "Moderate",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 106,
+    "name": "Hidden Nature Spot 106",
+    "type": "Hidden Viewpoint",
+    "district": "Ernakulam",
+    "difficulty": "Hard",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 107,
+    "name": "Hidden Nature Spot 107",
+    "type": "Secret Waterfall",
+    "district": "Thiruvananthapuram",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 108,
+    "name": "Hidden Nature Spot 108",
+    "type": "Secret Waterfall",
+    "district": "Malappuram",
+    "difficulty": "Easy",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 109,
+    "name": "Hidden Nature Spot 109",
+    "type": "Secret Waterfall",
+    "district": "Alappuzha",
+    "difficulty": "Hard",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 110,
+    "name": "Hidden Nature Spot 110",
+    "type": "Local Trek",
+    "district": "Idukki",
+    "difficulty": "Hard",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 111,
+    "name": "Hidden Nature Spot 111",
+    "type": "Local Trek",
+    "district": "Kottayam",
+    "difficulty": "Easy",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 112,
+    "name": "Hidden Nature Spot 112",
+    "type": "Local Trek",
+    "district": "Kozhikode",
+    "difficulty": "Easy",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 113,
+    "name": "Hidden Nature Spot 113",
+    "type": "Local Trek",
+    "district": "Pathanamthitta",
+    "difficulty": "Hard",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 114,
+    "name": "Hidden Nature Spot 114",
+    "type": "Forest Trail",
+    "district": "Pathanamthitta",
+    "difficulty": "Easy",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 115,
+    "name": "Hidden Nature Spot 115",
+    "type": "Hidden Viewpoint",
+    "district": "Kozhikode",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 116,
+    "name": "Hidden Nature Spot 116",
+    "type": "Local Trek",
+    "district": "Idukki",
+    "difficulty": "Easy",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 117,
+    "name": "Hidden Nature Spot 117",
+    "type": "Village Lake",
+    "district": "Malappuram",
+    "difficulty": "Easy",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 118,
+    "name": "Hidden Nature Spot 118",
+    "type": "Local Trek",
+    "district": "Kollam",
+    "difficulty": "Moderate",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 119,
+    "name": "Hidden Nature Spot 119",
+    "type": "Local Trek",
+    "district": "Kozhikode",
+    "difficulty": "Moderate",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 120,
+    "name": "Hidden Nature Spot 120",
+    "type": "Forest Trail",
+    "district": "Thrissur",
+    "difficulty": "Easy",
+    "rating": 4.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 121,
+    "name": "Hidden Nature Spot 121",
+    "type": "Hidden Viewpoint",
+    "district": "Malappuram",
+    "difficulty": "Hard",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 122,
+    "name": "Hidden Nature Spot 122",
+    "type": "Forest Trail",
+    "district": "Kannur",
+    "difficulty": "Easy",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 123,
+    "name": "Hidden Nature Spot 123",
+    "type": "Secret Waterfall",
+    "district": "Malappuram",
+    "difficulty": "Hard",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 124,
+    "name": "Hidden Nature Spot 124",
+    "type": "Forest Trail",
+    "district": "Malappuram",
+    "difficulty": "Easy",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 125,
+    "name": "Hidden Nature Spot 125",
+    "type": "Secret Waterfall",
+    "district": "Idukki",
+    "difficulty": "Easy",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 126,
+    "name": "Hidden Nature Spot 126",
+    "type": "Forest Trail",
+    "district": "Palakkad",
+    "difficulty": "Hard",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 127,
+    "name": "Hidden Nature Spot 127",
+    "type": "Hidden Viewpoint",
+    "district": "Alappuzha",
+    "difficulty": "Hard",
+    "rating": 4.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 128,
+    "name": "Hidden Nature Spot 128",
+    "type": "Local Trek",
+    "district": "Pathanamthitta",
+    "difficulty": "Easy",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 129,
+    "name": "Hidden Nature Spot 129",
+    "type": "Hidden Viewpoint",
+    "district": "Malappuram",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 130,
+    "name": "Hidden Nature Spot 130",
+    "type": "Secret Waterfall",
+    "district": "Kozhikode",
+    "difficulty": "Moderate",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 131,
+    "name": "Hidden Nature Spot 131",
+    "type": "Local Trek",
+    "district": "Kottayam",
+    "difficulty": "Moderate",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 132,
+    "name": "Hidden Nature Spot 132",
+    "type": "Local Trek",
+    "district": "Kozhikode",
+    "difficulty": "Moderate",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 133,
+    "name": "Hidden Nature Spot 133",
+    "type": "Village Lake",
+    "district": "Kottayam",
+    "difficulty": "Moderate",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 134,
+    "name": "Hidden Nature Spot 134",
+    "type": "Forest Trail",
+    "district": "Kannur",
+    "difficulty": "Easy",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 135,
+    "name": "Hidden Nature Spot 135",
+    "type": "Local Trek",
+    "district": "Kollam",
+    "difficulty": "Hard",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 136,
+    "name": "Hidden Nature Spot 136",
+    "type": "Village Lake",
+    "district": "Ernakulam",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 137,
+    "name": "Hidden Nature Spot 137",
+    "type": "Village Lake",
+    "district": "Idukki",
+    "difficulty": "Easy",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 138,
+    "name": "Hidden Nature Spot 138",
+    "type": "Secret Waterfall",
+    "district": "Alappuzha",
+    "difficulty": "Easy",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 139,
+    "name": "Hidden Nature Spot 139",
+    "type": "Village Lake",
+    "district": "Kottayam",
+    "difficulty": "Hard",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 140,
+    "name": "Hidden Nature Spot 140",
+    "type": "Forest Trail",
+    "district": "Thrissur",
+    "difficulty": "Hard",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 141,
+    "name": "Hidden Nature Spot 141",
+    "type": "Hidden Viewpoint",
+    "district": "Pathanamthitta",
+    "difficulty": "Moderate",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 142,
+    "name": "Hidden Nature Spot 142",
+    "type": "Local Trek",
+    "district": "Kollam",
+    "difficulty": "Moderate",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 143,
+    "name": "Hidden Nature Spot 143",
+    "type": "Hidden Viewpoint",
+    "district": "Kasaragod",
+    "difficulty": "Hard",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 144,
+    "name": "Hidden Nature Spot 144",
+    "type": "Secret Waterfall",
+    "district": "Kozhikode",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 145,
+    "name": "Hidden Nature Spot 145",
+    "type": "Hidden Viewpoint",
+    "district": "Kannur",
+    "difficulty": "Moderate",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 146,
+    "name": "Hidden Nature Spot 146",
+    "type": "Local Trek",
+    "district": "Kottayam",
+    "difficulty": "Moderate",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 147,
+    "name": "Hidden Nature Spot 147",
+    "type": "Local Trek",
+    "district": "Pathanamthitta",
+    "difficulty": "Easy",
+    "rating": 4.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 148,
+    "name": "Hidden Nature Spot 148",
+    "type": "Village Lake",
+    "district": "Thiruvananthapuram",
+    "difficulty": "Easy",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 149,
+    "name": "Hidden Nature Spot 149",
+    "type": "Village Lake",
+    "district": "Thrissur",
+    "difficulty": "Moderate",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 150,
+    "name": "Hidden Nature Spot 150",
+    "type": "Secret Waterfall",
+    "district": "Alappuzha",
+    "difficulty": "Easy",
+    "rating": 4.8,
+    "latitude": null,
+    "longitude": null
+  }
+]

@@ -1,0 +1,6302 @@
+[
+  {
+    "id": 1,
+    "name": "Kerala Food Spot 1",
+    "cuisine": "Seafood",
+    "district": "Ernakulam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 2,
+    "name": "Kerala Food Spot 2",
+    "cuisine": "Kerala",
+    "district": "Idukki",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 3,
+    "name": "Kerala Food Spot 3",
+    "cuisine": "Bakery",
+    "district": "Thrissur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 4,
+    "name": "Kerala Food Spot 4",
+    "cuisine": "Bakery",
+    "district": "Pathanamthitta",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 5,
+    "name": "Kerala Food Spot 5",
+    "cuisine": "Cafe",
+    "district": "Idukki",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 6,
+    "name": "Kerala Food Spot 6",
+    "cuisine": "Seafood",
+    "district": "Kollam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 7,
+    "name": "Kerala Food Spot 7",
+    "cuisine": "Kerala",
+    "district": "Wayanad",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 8,
+    "name": "Kerala Food Spot 8",
+    "cuisine": "Cafe",
+    "district": "Alappuzha",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 9,
+    "name": "Kerala Food Spot 9",
+    "cuisine": "Multi-cuisine",
+    "district": "Malappuram",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 10,
+    "name": "Kerala Food Spot 10",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 11,
+    "name": "Kerala Food Spot 11",
+    "cuisine": "Street Food",
+    "district": "Kasaragod",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 12,
+    "name": "Kerala Food Spot 12",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 13,
+    "name": "Kerala Food Spot 13",
+    "cuisine": "Indian",
+    "district": "Kasaragod",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 14,
+    "name": "Kerala Food Spot 14",
+    "cuisine": "Cafe",
+    "district": "Malappuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 15,
+    "name": "Kerala Food Spot 15",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 16,
+    "name": "Kerala Food Spot 16",
+    "cuisine": "Kerala",
+    "district": "Malappuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 17,
+    "name": "Kerala Food Spot 17",
+    "cuisine": "Street Food",
+    "district": "Kasaragod",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 18,
+    "name": "Kerala Food Spot 18",
+    "cuisine": "Multi-cuisine",
+    "district": "Ernakulam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 19,
+    "name": "Kerala Food Spot 19",
+    "cuisine": "Multi-cuisine",
+    "district": "Thrissur",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 20,
+    "name": "Kerala Food Spot 20",
+    "cuisine": "Multi-cuisine",
+    "district": "Idukki",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 21,
+    "name": "Kerala Food Spot 21",
+    "cuisine": "Bakery",
+    "district": "Thiruvananthapuram",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 22,
+    "name": "Kerala Food Spot 22",
+    "cuisine": "Indian",
+    "district": "Idukki",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 23,
+    "name": "Kerala Food Spot 23",
+    "cuisine": "Cafe",
+    "district": "Pathanamthitta",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 24,
+    "name": "Kerala Food Spot 24",
+    "cuisine": "Cafe",
+    "district": "Wayanad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 25,
+    "name": "Kerala Food Spot 25",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 26,
+    "name": "Kerala Food Spot 26",
+    "cuisine": "Cafe",
+    "district": "Kasaragod",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 27,
+    "name": "Kerala Food Spot 27",
+    "cuisine": "Seafood",
+    "district": "Malappuram",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 28,
+    "name": "Kerala Food Spot 28",
+    "cuisine": "Street Food",
+    "district": "Idukki",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 29,
+    "name": "Kerala Food Spot 29",
+    "cuisine": "Indian",
+    "district": "Kannur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 30,
+    "name": "Kerala Food Spot 30",
+    "cuisine": "Multi-cuisine",
+    "district": "Ernakulam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 31,
+    "name": "Kerala Food Spot 31",
+    "cuisine": "Kerala",
+    "district": "Kozhikode",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 32,
+    "name": "Kerala Food Spot 32",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 33,
+    "name": "Kerala Food Spot 33",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 34,
+    "name": "Kerala Food Spot 34",
+    "cuisine": "Seafood",
+    "district": "Pathanamthitta",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 35,
+    "name": "Kerala Food Spot 35",
+    "cuisine": "Seafood",
+    "district": "Palakkad",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 36,
+    "name": "Kerala Food Spot 36",
+    "cuisine": "Indian",
+    "district": "Thrissur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 37,
+    "name": "Kerala Food Spot 37",
+    "cuisine": "Multi-cuisine",
+    "district": "Kozhikode",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 38,
+    "name": "Kerala Food Spot 38",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 39,
+    "name": "Kerala Food Spot 39",
+    "cuisine": "Indian",
+    "district": "Alappuzha",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 40,
+    "name": "Kerala Food Spot 40",
+    "cuisine": "Bakery",
+    "district": "Pathanamthitta",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 41,
+    "name": "Kerala Food Spot 41",
+    "cuisine": "Bakery",
+    "district": "Alappuzha",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 42,
+    "name": "Kerala Food Spot 42",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 43,
+    "name": "Kerala Food Spot 43",
+    "cuisine": "Seafood",
+    "district": "Wayanad",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 44,
+    "name": "Kerala Food Spot 44",
+    "cuisine": "Cafe",
+    "district": "Ernakulam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 45,
+    "name": "Kerala Food Spot 45",
+    "cuisine": "Multi-cuisine",
+    "district": "Idukki",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 46,
+    "name": "Kerala Food Spot 46",
+    "cuisine": "Street Food",
+    "district": "Idukki",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 47,
+    "name": "Kerala Food Spot 47",
+    "cuisine": "Indian",
+    "district": "Idukki",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 48,
+    "name": "Kerala Food Spot 48",
+    "cuisine": "Indian",
+    "district": "Kozhikode",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 49,
+    "name": "Kerala Food Spot 49",
+    "cuisine": "Cafe",
+    "district": "Palakkad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 50,
+    "name": "Kerala Food Spot 50",
+    "cuisine": "Multi-cuisine",
+    "district": "Malappuram",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 51,
+    "name": "Kerala Food Spot 51",
+    "cuisine": "Kerala",
+    "district": "Kottayam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 52,
+    "name": "Kerala Food Spot 52",
+    "cuisine": "Multi-cuisine",
+    "district": "Kasaragod",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 53,
+    "name": "Kerala Food Spot 53",
+    "cuisine": "Street Food",
+    "district": "Palakkad",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 54,
+    "name": "Kerala Food Spot 54",
+    "cuisine": "Indian",
+    "district": "Kottayam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 55,
+    "name": "Kerala Food Spot 55",
+    "cuisine": "Kerala",
+    "district": "Palakkad",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 56,
+    "name": "Kerala Food Spot 56",
+    "cuisine": "Multi-cuisine",
+    "district": "Kottayam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 57,
+    "name": "Kerala Food Spot 57",
+    "cuisine": "Indian",
+    "district": "Idukki",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 58,
+    "name": "Kerala Food Spot 58",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 59,
+    "name": "Kerala Food Spot 59",
+    "cuisine": "Cafe",
+    "district": "Thiruvananthapuram",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 60,
+    "name": "Kerala Food Spot 60",
+    "cuisine": "Kerala",
+    "district": "Idukki",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 61,
+    "name": "Kerala Food Spot 61",
+    "cuisine": "Cafe",
+    "district": "Wayanad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 62,
+    "name": "Kerala Food Spot 62",
+    "cuisine": "Bakery",
+    "district": "Thrissur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 63,
+    "name": "Kerala Food Spot 63",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 64,
+    "name": "Kerala Food Spot 64",
+    "cuisine": "Indian",
+    "district": "Palakkad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 65,
+    "name": "Kerala Food Spot 65",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 66,
+    "name": "Kerala Food Spot 66",
+    "cuisine": "Multi-cuisine",
+    "district": "Kasaragod",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 67,
+    "name": "Kerala Food Spot 67",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 68,
+    "name": "Kerala Food Spot 68",
+    "cuisine": "Seafood",
+    "district": "Kollam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 69,
+    "name": "Kerala Food Spot 69",
+    "cuisine": "Street Food",
+    "district": "Kasaragod",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 70,
+    "name": "Kerala Food Spot 70",
+    "cuisine": "Cafe",
+    "district": "Kozhikode",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 71,
+    "name": "Kerala Food Spot 71",
+    "cuisine": "Street Food",
+    "district": "Wayanad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 72,
+    "name": "Kerala Food Spot 72",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 73,
+    "name": "Kerala Food Spot 73",
+    "cuisine": "Seafood",
+    "district": "Ernakulam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 74,
+    "name": "Kerala Food Spot 74",
+    "cuisine": "Indian",
+    "district": "Kozhikode",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 75,
+    "name": "Kerala Food Spot 75",
+    "cuisine": "Indian",
+    "district": "Thrissur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 76,
+    "name": "Kerala Food Spot 76",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 77,
+    "name": "Kerala Food Spot 77",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 78,
+    "name": "Kerala Food Spot 78",
+    "cuisine": "Indian",
+    "district": "Kottayam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 79,
+    "name": "Kerala Food Spot 79",
+    "cuisine": "Seafood",
+    "district": "Malappuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 80,
+    "name": "Kerala Food Spot 80",
+    "cuisine": "Indian",
+    "district": "Kozhikode",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 81,
+    "name": "Kerala Food Spot 81",
+    "cuisine": "Cafe",
+    "district": "Thrissur",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 82,
+    "name": "Kerala Food Spot 82",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 83,
+    "name": "Kerala Food Spot 83",
+    "cuisine": "Seafood",
+    "district": "Palakkad",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 84,
+    "name": "Kerala Food Spot 84",
+    "cuisine": "Bakery",
+    "district": "Palakkad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 85,
+    "name": "Kerala Food Spot 85",
+    "cuisine": "Kerala",
+    "district": "Ernakulam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 86,
+    "name": "Kerala Food Spot 86",
+    "cuisine": "Multi-cuisine",
+    "district": "Idukki",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 87,
+    "name": "Kerala Food Spot 87",
+    "cuisine": "Multi-cuisine",
+    "district": "Kasaragod",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 88,
+    "name": "Kerala Food Spot 88",
+    "cuisine": "Cafe",
+    "district": "Kozhikode",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 89,
+    "name": "Kerala Food Spot 89",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 90,
+    "name": "Kerala Food Spot 90",
+    "cuisine": "Seafood",
+    "district": "Kannur",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 91,
+    "name": "Kerala Food Spot 91",
+    "cuisine": "Cafe",
+    "district": "Palakkad",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 92,
+    "name": "Kerala Food Spot 92",
+    "cuisine": "Multi-cuisine",
+    "district": "Kasaragod",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 93,
+    "name": "Kerala Food Spot 93",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 94,
+    "name": "Kerala Food Spot 94",
+    "cuisine": "Indian",
+    "district": "Kasaragod",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 95,
+    "name": "Kerala Food Spot 95",
+    "cuisine": "Cafe",
+    "district": "Alappuzha",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 96,
+    "name": "Kerala Food Spot 96",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 97,
+    "name": "Kerala Food Spot 97",
+    "cuisine": "Bakery",
+    "district": "Ernakulam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 98,
+    "name": "Kerala Food Spot 98",
+    "cuisine": "Cafe",
+    "district": "Malappuram",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 99,
+    "name": "Kerala Food Spot 99",
+    "cuisine": "Indian",
+    "district": "Idukki",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 100,
+    "name": "Kerala Food Spot 100",
+    "cuisine": "Seafood",
+    "district": "Malappuram",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 101,
+    "name": "Kerala Food Spot 101",
+    "cuisine": "Cafe",
+    "district": "Idukki",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 102,
+    "name": "Kerala Food Spot 102",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 103,
+    "name": "Kerala Food Spot 103",
+    "cuisine": "Kerala",
+    "district": "Wayanad",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 104,
+    "name": "Kerala Food Spot 104",
+    "cuisine": "Multi-cuisine",
+    "district": "Alappuzha",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 105,
+    "name": "Kerala Food Spot 105",
+    "cuisine": "Kerala",
+    "district": "Idukki",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 106,
+    "name": "Kerala Food Spot 106",
+    "cuisine": "Bakery",
+    "district": "Kottayam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 107,
+    "name": "Kerala Food Spot 107",
+    "cuisine": "Cafe",
+    "district": "Thrissur",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 108,
+    "name": "Kerala Food Spot 108",
+    "cuisine": "Indian",
+    "district": "Pathanamthitta",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 109,
+    "name": "Kerala Food Spot 109",
+    "cuisine": "Indian",
+    "district": "Ernakulam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 110,
+    "name": "Kerala Food Spot 110",
+    "cuisine": "Seafood",
+    "district": "Kollam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 111,
+    "name": "Kerala Food Spot 111",
+    "cuisine": "Indian",
+    "district": "Ernakulam",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 112,
+    "name": "Kerala Food Spot 112",
+    "cuisine": "Bakery",
+    "district": "Kasaragod",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 113,
+    "name": "Kerala Food Spot 113",
+    "cuisine": "Multi-cuisine",
+    "district": "Kasaragod",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 114,
+    "name": "Kerala Food Spot 114",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 115,
+    "name": "Kerala Food Spot 115",
+    "cuisine": "Cafe",
+    "district": "Idukki",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 116,
+    "name": "Kerala Food Spot 116",
+    "cuisine": "Seafood",
+    "district": "Wayanad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 117,
+    "name": "Kerala Food Spot 117",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 118,
+    "name": "Kerala Food Spot 118",
+    "cuisine": "Street Food",
+    "district": "Malappuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 119,
+    "name": "Kerala Food Spot 119",
+    "cuisine": "Street Food",
+    "district": "Idukki",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 120,
+    "name": "Kerala Food Spot 120",
+    "cuisine": "Cafe",
+    "district": "Kozhikode",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 121,
+    "name": "Kerala Food Spot 121",
+    "cuisine": "Indian",
+    "district": "Wayanad",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 122,
+    "name": "Kerala Food Spot 122",
+    "cuisine": "Street Food",
+    "district": "Palakkad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 123,
+    "name": "Kerala Food Spot 123",
+    "cuisine": "Kerala",
+    "district": "Thiruvananthapuram",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 124,
+    "name": "Kerala Food Spot 124",
+    "cuisine": "Seafood",
+    "district": "Kannur",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 125,
+    "name": "Kerala Food Spot 125",
+    "cuisine": "Cafe",
+    "district": "Kottayam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 126,
+    "name": "Kerala Food Spot 126",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 127,
+    "name": "Kerala Food Spot 127",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 128,
+    "name": "Kerala Food Spot 128",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 129,
+    "name": "Kerala Food Spot 129",
+    "cuisine": "Cafe",
+    "district": "Kasaragod",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 130,
+    "name": "Kerala Food Spot 130",
+    "cuisine": "Cafe",
+    "district": "Kottayam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 131,
+    "name": "Kerala Food Spot 131",
+    "cuisine": "Seafood",
+    "district": "Thrissur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 132,
+    "name": "Kerala Food Spot 132",
+    "cuisine": "Seafood",
+    "district": "Ernakulam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 133,
+    "name": "Kerala Food Spot 133",
+    "cuisine": "Multi-cuisine",
+    "district": "Palakkad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 134,
+    "name": "Kerala Food Spot 134",
+    "cuisine": "Cafe",
+    "district": "Kottayam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 135,
+    "name": "Kerala Food Spot 135",
+    "cuisine": "Cafe",
+    "district": "Kottayam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 136,
+    "name": "Kerala Food Spot 136",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 137,
+    "name": "Kerala Food Spot 137",
+    "cuisine": "Multi-cuisine",
+    "district": "Palakkad",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 138,
+    "name": "Kerala Food Spot 138",
+    "cuisine": "Street Food",
+    "district": "Malappuram",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 139,
+    "name": "Kerala Food Spot 139",
+    "cuisine": "Seafood",
+    "district": "Kozhikode",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 140,
+    "name": "Kerala Food Spot 140",
+    "cuisine": "Kerala",
+    "district": "Thrissur",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 141,
+    "name": "Kerala Food Spot 141",
+    "cuisine": "Seafood",
+    "district": "Palakkad",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 142,
+    "name": "Kerala Food Spot 142",
+    "cuisine": "Cafe",
+    "district": "Kozhikode",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 143,
+    "name": "Kerala Food Spot 143",
+    "cuisine": "Street Food",
+    "district": "Idukki",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 144,
+    "name": "Kerala Food Spot 144",
+    "cuisine": "Seafood",
+    "district": "Thiruvananthapuram",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 145,
+    "name": "Kerala Food Spot 145",
+    "cuisine": "Multi-cuisine",
+    "district": "Ernakulam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 146,
+    "name": "Kerala Food Spot 146",
+    "cuisine": "Multi-cuisine",
+    "district": "Alappuzha",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 147,
+    "name": "Kerala Food Spot 147",
+    "cuisine": "Cafe",
+    "district": "Kannur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 148,
+    "name": "Kerala Food Spot 148",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 149,
+    "name": "Kerala Food Spot 149",
+    "cuisine": "Cafe",
+    "district": "Palakkad",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 150,
+    "name": "Kerala Food Spot 150",
+    "cuisine": "Cafe",
+    "district": "Kasaragod",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 151,
+    "name": "Kerala Food Spot 151",
+    "cuisine": "Seafood",
+    "district": "Thrissur",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 152,
+    "name": "Kerala Food Spot 152",
+    "cuisine": "Multi-cuisine",
+    "district": "Idukki",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 153,
+    "name": "Kerala Food Spot 153",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 154,
+    "name": "Kerala Food Spot 154",
+    "cuisine": "Street Food",
+    "district": "Thiruvananthapuram",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 155,
+    "name": "Kerala Food Spot 155",
+    "cuisine": "Cafe",
+    "district": "Palakkad",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 156,
+    "name": "Kerala Food Spot 156",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 157,
+    "name": "Kerala Food Spot 157",
+    "cuisine": "Cafe",
+    "district": "Alappuzha",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 158,
+    "name": "Kerala Food Spot 158",
+    "cuisine": "Multi-cuisine",
+    "district": "Idukki",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 159,
+    "name": "Kerala Food Spot 159",
+    "cuisine": "Bakery",
+    "district": "Thrissur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 160,
+    "name": "Kerala Food Spot 160",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 161,
+    "name": "Kerala Food Spot 161",
+    "cuisine": "Indian",
+    "district": "Thiruvananthapuram",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 162,
+    "name": "Kerala Food Spot 162",
+    "cuisine": "Street Food",
+    "district": "Kottayam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 163,
+    "name": "Kerala Food Spot 163",
+    "cuisine": "Seafood",
+    "district": "Kottayam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 164,
+    "name": "Kerala Food Spot 164",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 165,
+    "name": "Kerala Food Spot 165",
+    "cuisine": "Indian",
+    "district": "Malappuram",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 166,
+    "name": "Kerala Food Spot 166",
+    "cuisine": "Street Food",
+    "district": "Alappuzha",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 167,
+    "name": "Kerala Food Spot 167",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 168,
+    "name": "Kerala Food Spot 168",
+    "cuisine": "Street Food",
+    "district": "Wayanad",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 169,
+    "name": "Kerala Food Spot 169",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 170,
+    "name": "Kerala Food Spot 170",
+    "cuisine": "Street Food",
+    "district": "Kottayam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 171,
+    "name": "Kerala Food Spot 171",
+    "cuisine": "Indian",
+    "district": "Pathanamthitta",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 172,
+    "name": "Kerala Food Spot 172",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 173,
+    "name": "Kerala Food Spot 173",
+    "cuisine": "Indian",
+    "district": "Kottayam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 174,
+    "name": "Kerala Food Spot 174",
+    "cuisine": "Cafe",
+    "district": "Palakkad",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 175,
+    "name": "Kerala Food Spot 175",
+    "cuisine": "Cafe",
+    "district": "Palakkad",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 176,
+    "name": "Kerala Food Spot 176",
+    "cuisine": "Indian",
+    "district": "Wayanad",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 177,
+    "name": "Kerala Food Spot 177",
+    "cuisine": "Indian",
+    "district": "Palakkad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 178,
+    "name": "Kerala Food Spot 178",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 179,
+    "name": "Kerala Food Spot 179",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 180,
+    "name": "Kerala Food Spot 180",
+    "cuisine": "Multi-cuisine",
+    "district": "Thiruvananthapuram",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 181,
+    "name": "Kerala Food Spot 181",
+    "cuisine": "Multi-cuisine",
+    "district": "Kasaragod",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 182,
+    "name": "Kerala Food Spot 182",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 183,
+    "name": "Kerala Food Spot 183",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 184,
+    "name": "Kerala Food Spot 184",
+    "cuisine": "Bakery",
+    "district": "Kottayam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 185,
+    "name": "Kerala Food Spot 185",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 186,
+    "name": "Kerala Food Spot 186",
+    "cuisine": "Kerala",
+    "district": "Thiruvananthapuram",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 187,
+    "name": "Kerala Food Spot 187",
+    "cuisine": "Indian",
+    "district": "Kozhikode",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 188,
+    "name": "Kerala Food Spot 188",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 189,
+    "name": "Kerala Food Spot 189",
+    "cuisine": "Seafood",
+    "district": "Thrissur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 190,
+    "name": "Kerala Food Spot 190",
+    "cuisine": "Bakery",
+    "district": "Kottayam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 191,
+    "name": "Kerala Food Spot 191",
+    "cuisine": "Bakery",
+    "district": "Alappuzha",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 192,
+    "name": "Kerala Food Spot 192",
+    "cuisine": "Street Food",
+    "district": "Kottayam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 193,
+    "name": "Kerala Food Spot 193",
+    "cuisine": "Cafe",
+    "district": "Palakkad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 194,
+    "name": "Kerala Food Spot 194",
+    "cuisine": "Seafood",
+    "district": "Idukki",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 195,
+    "name": "Kerala Food Spot 195",
+    "cuisine": "Bakery",
+    "district": "Ernakulam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 196,
+    "name": "Kerala Food Spot 196",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 197,
+    "name": "Kerala Food Spot 197",
+    "cuisine": "Street Food",
+    "district": "Thiruvananthapuram",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 198,
+    "name": "Kerala Food Spot 198",
+    "cuisine": "Cafe",
+    "district": "Kozhikode",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 199,
+    "name": "Kerala Food Spot 199",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 200,
+    "name": "Kerala Food Spot 200",
+    "cuisine": "Cafe",
+    "district": "Wayanad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 201,
+    "name": "Kerala Food Spot 201",
+    "cuisine": "Multi-cuisine",
+    "district": "Palakkad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 202,
+    "name": "Kerala Food Spot 202",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 203,
+    "name": "Kerala Food Spot 203",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 204,
+    "name": "Kerala Food Spot 204",
+    "cuisine": "Bakery",
+    "district": "Palakkad",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 205,
+    "name": "Kerala Food Spot 205",
+    "cuisine": "Multi-cuisine",
+    "district": "Kozhikode",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 206,
+    "name": "Kerala Food Spot 206",
+    "cuisine": "Street Food",
+    "district": "Kozhikode",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 207,
+    "name": "Kerala Food Spot 207",
+    "cuisine": "Kerala",
+    "district": "Idukki",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 208,
+    "name": "Kerala Food Spot 208",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 209,
+    "name": "Kerala Food Spot 209",
+    "cuisine": "Kerala",
+    "district": "Ernakulam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 210,
+    "name": "Kerala Food Spot 210",
+    "cuisine": "Seafood",
+    "district": "Kozhikode",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 211,
+    "name": "Kerala Food Spot 211",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 212,
+    "name": "Kerala Food Spot 212",
+    "cuisine": "Indian",
+    "district": "Pathanamthitta",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 213,
+    "name": "Kerala Food Spot 213",
+    "cuisine": "Bakery",
+    "district": "Pathanamthitta",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 214,
+    "name": "Kerala Food Spot 214",
+    "cuisine": "Bakery",
+    "district": "Malappuram",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 215,
+    "name": "Kerala Food Spot 215",
+    "cuisine": "Cafe",
+    "district": "Thiruvananthapuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 216,
+    "name": "Kerala Food Spot 216",
+    "cuisine": "Cafe",
+    "district": "Idukki",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 217,
+    "name": "Kerala Food Spot 217",
+    "cuisine": "Kerala",
+    "district": "Wayanad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 218,
+    "name": "Kerala Food Spot 218",
+    "cuisine": "Kerala",
+    "district": "Idukki",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 219,
+    "name": "Kerala Food Spot 219",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 220,
+    "name": "Kerala Food Spot 220",
+    "cuisine": "Multi-cuisine",
+    "district": "Kottayam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 221,
+    "name": "Kerala Food Spot 221",
+    "cuisine": "Kerala",
+    "district": "Wayanad",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 222,
+    "name": "Kerala Food Spot 222",
+    "cuisine": "Multi-cuisine",
+    "district": "Palakkad",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 223,
+    "name": "Kerala Food Spot 223",
+    "cuisine": "Seafood",
+    "district": "Kottayam",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 224,
+    "name": "Kerala Food Spot 224",
+    "cuisine": "Indian",
+    "district": "Kozhikode",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 225,
+    "name": "Kerala Food Spot 225",
+    "cuisine": "Indian",
+    "district": "Malappuram",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 226,
+    "name": "Kerala Food Spot 226",
+    "cuisine": "Seafood",
+    "district": "Kottayam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 227,
+    "name": "Kerala Food Spot 227",
+    "cuisine": "Multi-cuisine",
+    "district": "Thiruvananthapuram",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 228,
+    "name": "Kerala Food Spot 228",
+    "cuisine": "Kerala",
+    "district": "Alappuzha",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 229,
+    "name": "Kerala Food Spot 229",
+    "cuisine": "Bakery",
+    "district": "Kozhikode",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 230,
+    "name": "Kerala Food Spot 230",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 231,
+    "name": "Kerala Food Spot 231",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 232,
+    "name": "Kerala Food Spot 232",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 233,
+    "name": "Kerala Food Spot 233",
+    "cuisine": "Kerala",
+    "district": "Ernakulam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 234,
+    "name": "Kerala Food Spot 234",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 235,
+    "name": "Kerala Food Spot 235",
+    "cuisine": "Kerala",
+    "district": "Kozhikode",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 236,
+    "name": "Kerala Food Spot 236",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 237,
+    "name": "Kerala Food Spot 237",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 238,
+    "name": "Kerala Food Spot 238",
+    "cuisine": "Indian",
+    "district": "Palakkad",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 239,
+    "name": "Kerala Food Spot 239",
+    "cuisine": "Cafe",
+    "district": "Malappuram",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 240,
+    "name": "Kerala Food Spot 240",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 241,
+    "name": "Kerala Food Spot 241",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 242,
+    "name": "Kerala Food Spot 242",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 243,
+    "name": "Kerala Food Spot 243",
+    "cuisine": "Cafe",
+    "district": "Wayanad",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 244,
+    "name": "Kerala Food Spot 244",
+    "cuisine": "Indian",
+    "district": "Alappuzha",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 245,
+    "name": "Kerala Food Spot 245",
+    "cuisine": "Street Food",
+    "district": "Thiruvananthapuram",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 246,
+    "name": "Kerala Food Spot 246",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 247,
+    "name": "Kerala Food Spot 247",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 248,
+    "name": "Kerala Food Spot 248",
+    "cuisine": "Cafe",
+    "district": "Wayanad",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 249,
+    "name": "Kerala Food Spot 249",
+    "cuisine": "Seafood",
+    "district": "Palakkad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 250,
+    "name": "Kerala Food Spot 250",
+    "cuisine": "Indian",
+    "district": "Alappuzha",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 251,
+    "name": "Kerala Food Spot 251",
+    "cuisine": "Cafe",
+    "district": "Alappuzha",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 252,
+    "name": "Kerala Food Spot 252",
+    "cuisine": "Indian",
+    "district": "Alappuzha",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 253,
+    "name": "Kerala Food Spot 253",
+    "cuisine": "Seafood",
+    "district": "Kasaragod",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 254,
+    "name": "Kerala Food Spot 254",
+    "cuisine": "Bakery",
+    "district": "Idukki",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 255,
+    "name": "Kerala Food Spot 255",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 256,
+    "name": "Kerala Food Spot 256",
+    "cuisine": "Bakery",
+    "district": "Idukki",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 257,
+    "name": "Kerala Food Spot 257",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 258,
+    "name": "Kerala Food Spot 258",
+    "cuisine": "Cafe",
+    "district": "Malappuram",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 259,
+    "name": "Kerala Food Spot 259",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 260,
+    "name": "Kerala Food Spot 260",
+    "cuisine": "Indian",
+    "district": "Alappuzha",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 261,
+    "name": "Kerala Food Spot 261",
+    "cuisine": "Bakery",
+    "district": "Kozhikode",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 262,
+    "name": "Kerala Food Spot 262",
+    "cuisine": "Seafood",
+    "district": "Alappuzha",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 263,
+    "name": "Kerala Food Spot 263",
+    "cuisine": "Indian",
+    "district": "Kozhikode",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 264,
+    "name": "Kerala Food Spot 264",
+    "cuisine": "Kerala",
+    "district": "Thrissur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 265,
+    "name": "Kerala Food Spot 265",
+    "cuisine": "Cafe",
+    "district": "Kasaragod",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 266,
+    "name": "Kerala Food Spot 266",
+    "cuisine": "Kerala",
+    "district": "Palakkad",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 267,
+    "name": "Kerala Food Spot 267",
+    "cuisine": "Street Food",
+    "district": "Palakkad",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 268,
+    "name": "Kerala Food Spot 268",
+    "cuisine": "Multi-cuisine",
+    "district": "Kannur",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 269,
+    "name": "Kerala Food Spot 269",
+    "cuisine": "Street Food",
+    "district": "Kozhikode",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 270,
+    "name": "Kerala Food Spot 270",
+    "cuisine": "Multi-cuisine",
+    "district": "Alappuzha",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 271,
+    "name": "Kerala Food Spot 271",
+    "cuisine": "Kerala",
+    "district": "Pathanamthitta",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 272,
+    "name": "Kerala Food Spot 272",
+    "cuisine": "Bakery",
+    "district": "Kozhikode",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 273,
+    "name": "Kerala Food Spot 273",
+    "cuisine": "Cafe",
+    "district": "Ernakulam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 274,
+    "name": "Kerala Food Spot 274",
+    "cuisine": "Street Food",
+    "district": "Kozhikode",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 275,
+    "name": "Kerala Food Spot 275",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 276,
+    "name": "Kerala Food Spot 276",
+    "cuisine": "Bakery",
+    "district": "Malappuram",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 277,
+    "name": "Kerala Food Spot 277",
+    "cuisine": "Kerala",
+    "district": "Thiruvananthapuram",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 278,
+    "name": "Kerala Food Spot 278",
+    "cuisine": "Bakery",
+    "district": "Kottayam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 279,
+    "name": "Kerala Food Spot 279",
+    "cuisine": "Indian",
+    "district": "Palakkad",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 280,
+    "name": "Kerala Food Spot 280",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 281,
+    "name": "Kerala Food Spot 281",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 282,
+    "name": "Kerala Food Spot 282",
+    "cuisine": "Kerala",
+    "district": "Ernakulam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 283,
+    "name": "Kerala Food Spot 283",
+    "cuisine": "Kerala",
+    "district": "Ernakulam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 284,
+    "name": "Kerala Food Spot 284",
+    "cuisine": "Cafe",
+    "district": "Kozhikode",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 285,
+    "name": "Kerala Food Spot 285",
+    "cuisine": "Street Food",
+    "district": "Palakkad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 286,
+    "name": "Kerala Food Spot 286",
+    "cuisine": "Cafe",
+    "district": "Alappuzha",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 287,
+    "name": "Kerala Food Spot 287",
+    "cuisine": "Bakery",
+    "district": "Malappuram",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 288,
+    "name": "Kerala Food Spot 288",
+    "cuisine": "Cafe",
+    "district": "Kasaragod",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 289,
+    "name": "Kerala Food Spot 289",
+    "cuisine": "Multi-cuisine",
+    "district": "Thrissur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 290,
+    "name": "Kerala Food Spot 290",
+    "cuisine": "Kerala",
+    "district": "Thiruvananthapuram",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 291,
+    "name": "Kerala Food Spot 291",
+    "cuisine": "Kerala",
+    "district": "Alappuzha",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 292,
+    "name": "Kerala Food Spot 292",
+    "cuisine": "Cafe",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 293,
+    "name": "Kerala Food Spot 293",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 294,
+    "name": "Kerala Food Spot 294",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 295,
+    "name": "Kerala Food Spot 295",
+    "cuisine": "Bakery",
+    "district": "Malappuram",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 296,
+    "name": "Kerala Food Spot 296",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 297,
+    "name": "Kerala Food Spot 297",
+    "cuisine": "Multi-cuisine",
+    "district": "Kasaragod",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 298,
+    "name": "Kerala Food Spot 298",
+    "cuisine": "Multi-cuisine",
+    "district": "Ernakulam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 299,
+    "name": "Kerala Food Spot 299",
+    "cuisine": "Multi-cuisine",
+    "district": "Ernakulam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 300,
+    "name": "Kerala Food Spot 300",
+    "cuisine": "Kerala",
+    "district": "Pathanamthitta",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 301,
+    "name": "Kerala Food Spot 301",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 302,
+    "name": "Kerala Food Spot 302",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 303,
+    "name": "Kerala Food Spot 303",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 304,
+    "name": "Kerala Food Spot 304",
+    "cuisine": "Indian",
+    "district": "Thiruvananthapuram",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 305,
+    "name": "Kerala Food Spot 305",
+    "cuisine": "Seafood",
+    "district": "Kollam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 306,
+    "name": "Kerala Food Spot 306",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 307,
+    "name": "Kerala Food Spot 307",
+    "cuisine": "Multi-cuisine",
+    "district": "Kozhikode",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 308,
+    "name": "Kerala Food Spot 308",
+    "cuisine": "Multi-cuisine",
+    "district": "Kottayam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 309,
+    "name": "Kerala Food Spot 309",
+    "cuisine": "Bakery",
+    "district": "Kozhikode",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 310,
+    "name": "Kerala Food Spot 310",
+    "cuisine": "Cafe",
+    "district": "Thiruvananthapuram",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 311,
+    "name": "Kerala Food Spot 311",
+    "cuisine": "Seafood",
+    "district": "Kottayam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 312,
+    "name": "Kerala Food Spot 312",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 313,
+    "name": "Kerala Food Spot 313",
+    "cuisine": "Cafe",
+    "district": "Kasaragod",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 314,
+    "name": "Kerala Food Spot 314",
+    "cuisine": "Bakery",
+    "district": "Palakkad",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 315,
+    "name": "Kerala Food Spot 315",
+    "cuisine": "Street Food",
+    "district": "Kasaragod",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 316,
+    "name": "Kerala Food Spot 316",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 317,
+    "name": "Kerala Food Spot 317",
+    "cuisine": "Cafe",
+    "district": "Alappuzha",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 318,
+    "name": "Kerala Food Spot 318",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 319,
+    "name": "Kerala Food Spot 319",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 320,
+    "name": "Kerala Food Spot 320",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 321,
+    "name": "Kerala Food Spot 321",
+    "cuisine": "Bakery",
+    "district": "Idukki",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 322,
+    "name": "Kerala Food Spot 322",
+    "cuisine": "Seafood",
+    "district": "Ernakulam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 323,
+    "name": "Kerala Food Spot 323",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 324,
+    "name": "Kerala Food Spot 324",
+    "cuisine": "Bakery",
+    "district": "Kasaragod",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 325,
+    "name": "Kerala Food Spot 325",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 326,
+    "name": "Kerala Food Spot 326",
+    "cuisine": "Multi-cuisine",
+    "district": "Thrissur",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 327,
+    "name": "Kerala Food Spot 327",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 328,
+    "name": "Kerala Food Spot 328",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 329,
+    "name": "Kerala Food Spot 329",
+    "cuisine": "Cafe",
+    "district": "Thrissur",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 330,
+    "name": "Kerala Food Spot 330",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 331,
+    "name": "Kerala Food Spot 331",
+    "cuisine": "Kerala",
+    "district": "Thrissur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 332,
+    "name": "Kerala Food Spot 332",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 333,
+    "name": "Kerala Food Spot 333",
+    "cuisine": "Cafe",
+    "district": "Kasaragod",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 334,
+    "name": "Kerala Food Spot 334",
+    "cuisine": "Street Food",
+    "district": "Kasaragod",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 335,
+    "name": "Kerala Food Spot 335",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 336,
+    "name": "Kerala Food Spot 336",
+    "cuisine": "Seafood",
+    "district": "Idukki",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 337,
+    "name": "Kerala Food Spot 337",
+    "cuisine": "Indian",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 338,
+    "name": "Kerala Food Spot 338",
+    "cuisine": "Seafood",
+    "district": "Pathanamthitta",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 339,
+    "name": "Kerala Food Spot 339",
+    "cuisine": "Indian",
+    "district": "Wayanad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 340,
+    "name": "Kerala Food Spot 340",
+    "cuisine": "Kerala",
+    "district": "Ernakulam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 341,
+    "name": "Kerala Food Spot 341",
+    "cuisine": "Bakery",
+    "district": "Kasaragod",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 342,
+    "name": "Kerala Food Spot 342",
+    "cuisine": "Street Food",
+    "district": "Thrissur",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 343,
+    "name": "Kerala Food Spot 343",
+    "cuisine": "Indian",
+    "district": "Malappuram",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 344,
+    "name": "Kerala Food Spot 344",
+    "cuisine": "Multi-cuisine",
+    "district": "Malappuram",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 345,
+    "name": "Kerala Food Spot 345",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 346,
+    "name": "Kerala Food Spot 346",
+    "cuisine": "Multi-cuisine",
+    "district": "Idukki",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 347,
+    "name": "Kerala Food Spot 347",
+    "cuisine": "Seafood",
+    "district": "Alappuzha",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 348,
+    "name": "Kerala Food Spot 348",
+    "cuisine": "Indian",
+    "district": "Malappuram",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 349,
+    "name": "Kerala Food Spot 349",
+    "cuisine": "Bakery",
+    "district": "Pathanamthitta",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 350,
+    "name": "Kerala Food Spot 350",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 351,
+    "name": "Kerala Food Spot 351",
+    "cuisine": "Multi-cuisine",
+    "district": "Kannur",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 352,
+    "name": "Kerala Food Spot 352",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 353,
+    "name": "Kerala Food Spot 353",
+    "cuisine": "Street Food",
+    "district": "Malappuram",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 354,
+    "name": "Kerala Food Spot 354",
+    "cuisine": "Indian",
+    "district": "Thiruvananthapuram",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 355,
+    "name": "Kerala Food Spot 355",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 356,
+    "name": "Kerala Food Spot 356",
+    "cuisine": "Bakery",
+    "district": "Malappuram",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 357,
+    "name": "Kerala Food Spot 357",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 358,
+    "name": "Kerala Food Spot 358",
+    "cuisine": "Bakery",
+    "district": "Kannur",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 359,
+    "name": "Kerala Food Spot 359",
+    "cuisine": "Indian",
+    "district": "Palakkad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 360,
+    "name": "Kerala Food Spot 360",
+    "cuisine": "Seafood",
+    "district": "Kozhikode",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 361,
+    "name": "Kerala Food Spot 361",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 362,
+    "name": "Kerala Food Spot 362",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 363,
+    "name": "Kerala Food Spot 363",
+    "cuisine": "Seafood",
+    "district": "Kottayam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 364,
+    "name": "Kerala Food Spot 364",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 365,
+    "name": "Kerala Food Spot 365",
+    "cuisine": "Street Food",
+    "district": "Wayanad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 366,
+    "name": "Kerala Food Spot 366",
+    "cuisine": "Indian",
+    "district": "Malappuram",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 367,
+    "name": "Kerala Food Spot 367",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 368,
+    "name": "Kerala Food Spot 368",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 369,
+    "name": "Kerala Food Spot 369",
+    "cuisine": "Kerala",
+    "district": "Wayanad",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 370,
+    "name": "Kerala Food Spot 370",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 371,
+    "name": "Kerala Food Spot 371",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 372,
+    "name": "Kerala Food Spot 372",
+    "cuisine": "Seafood",
+    "district": "Kozhikode",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 373,
+    "name": "Kerala Food Spot 373",
+    "cuisine": "Bakery",
+    "district": "Palakkad",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 374,
+    "name": "Kerala Food Spot 374",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 375,
+    "name": "Kerala Food Spot 375",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 376,
+    "name": "Kerala Food Spot 376",
+    "cuisine": "Bakery",
+    "district": "Kottayam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 377,
+    "name": "Kerala Food Spot 377",
+    "cuisine": "Multi-cuisine",
+    "district": "Kottayam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 378,
+    "name": "Kerala Food Spot 378",
+    "cuisine": "Kerala",
+    "district": "Malappuram",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 379,
+    "name": "Kerala Food Spot 379",
+    "cuisine": "Seafood",
+    "district": "Thiruvananthapuram",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 380,
+    "name": "Kerala Food Spot 380",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 381,
+    "name": "Kerala Food Spot 381",
+    "cuisine": "Cafe",
+    "district": "Palakkad",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 382,
+    "name": "Kerala Food Spot 382",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 383,
+    "name": "Kerala Food Spot 383",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 384,
+    "name": "Kerala Food Spot 384",
+    "cuisine": "Indian",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 385,
+    "name": "Kerala Food Spot 385",
+    "cuisine": "Street Food",
+    "district": "Alappuzha",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 386,
+    "name": "Kerala Food Spot 386",
+    "cuisine": "Bakery",
+    "district": "Kannur",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 387,
+    "name": "Kerala Food Spot 387",
+    "cuisine": "Bakery",
+    "district": "Ernakulam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 388,
+    "name": "Kerala Food Spot 388",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 389,
+    "name": "Kerala Food Spot 389",
+    "cuisine": "Seafood",
+    "district": "Ernakulam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 390,
+    "name": "Kerala Food Spot 390",
+    "cuisine": "Multi-cuisine",
+    "district": "Kasaragod",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 391,
+    "name": "Kerala Food Spot 391",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 392,
+    "name": "Kerala Food Spot 392",
+    "cuisine": "Multi-cuisine",
+    "district": "Kannur",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 393,
+    "name": "Kerala Food Spot 393",
+    "cuisine": "Indian",
+    "district": "Malappuram",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 394,
+    "name": "Kerala Food Spot 394",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 395,
+    "name": "Kerala Food Spot 395",
+    "cuisine": "Bakery",
+    "district": "Kottayam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 396,
+    "name": "Kerala Food Spot 396",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 397,
+    "name": "Kerala Food Spot 397",
+    "cuisine": "Seafood",
+    "district": "Kannur",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 398,
+    "name": "Kerala Food Spot 398",
+    "cuisine": "Seafood",
+    "district": "Kozhikode",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 399,
+    "name": "Kerala Food Spot 399",
+    "cuisine": "Bakery",
+    "district": "Kozhikode",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 400,
+    "name": "Kerala Food Spot 400",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 401,
+    "name": "Kerala Food Spot 401",
+    "cuisine": "Seafood",
+    "district": "Ernakulam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 402,
+    "name": "Kerala Food Spot 402",
+    "cuisine": "Multi-cuisine",
+    "district": "Pathanamthitta",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 403,
+    "name": "Kerala Food Spot 403",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 404,
+    "name": "Kerala Food Spot 404",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 405,
+    "name": "Kerala Food Spot 405",
+    "cuisine": "Street Food",
+    "district": "Thrissur",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 406,
+    "name": "Kerala Food Spot 406",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 407,
+    "name": "Kerala Food Spot 407",
+    "cuisine": "Bakery",
+    "district": "Alappuzha",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 408,
+    "name": "Kerala Food Spot 408",
+    "cuisine": "Kerala",
+    "district": "Kozhikode",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 409,
+    "name": "Kerala Food Spot 409",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 410,
+    "name": "Kerala Food Spot 410",
+    "cuisine": "Multi-cuisine",
+    "district": "Idukki",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 411,
+    "name": "Kerala Food Spot 411",
+    "cuisine": "Cafe",
+    "district": "Pathanamthitta",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 412,
+    "name": "Kerala Food Spot 412",
+    "cuisine": "Seafood",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 413,
+    "name": "Kerala Food Spot 413",
+    "cuisine": "Street Food",
+    "district": "Wayanad",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 414,
+    "name": "Kerala Food Spot 414",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 415,
+    "name": "Kerala Food Spot 415",
+    "cuisine": "Seafood",
+    "district": "Wayanad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 416,
+    "name": "Kerala Food Spot 416",
+    "cuisine": "Indian",
+    "district": "Kannur",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 417,
+    "name": "Kerala Food Spot 417",
+    "cuisine": "Indian",
+    "district": "Ernakulam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 418,
+    "name": "Kerala Food Spot 418",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 419,
+    "name": "Kerala Food Spot 419",
+    "cuisine": "Seafood",
+    "district": "Malappuram",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 420,
+    "name": "Kerala Food Spot 420",
+    "cuisine": "Kerala",
+    "district": "Pathanamthitta",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 421,
+    "name": "Kerala Food Spot 421",
+    "cuisine": "Multi-cuisine",
+    "district": "Pathanamthitta",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 422,
+    "name": "Kerala Food Spot 422",
+    "cuisine": "Street Food",
+    "district": "Kollam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 423,
+    "name": "Kerala Food Spot 423",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 424,
+    "name": "Kerala Food Spot 424",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 425,
+    "name": "Kerala Food Spot 425",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 426,
+    "name": "Kerala Food Spot 426",
+    "cuisine": "Kerala",
+    "district": "Thiruvananthapuram",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 427,
+    "name": "Kerala Food Spot 427",
+    "cuisine": "Multi-cuisine",
+    "district": "Thrissur",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 428,
+    "name": "Kerala Food Spot 428",
+    "cuisine": "Street Food",
+    "district": "Kozhikode",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 429,
+    "name": "Kerala Food Spot 429",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 430,
+    "name": "Kerala Food Spot 430",
+    "cuisine": "Bakery",
+    "district": "Malappuram",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 431,
+    "name": "Kerala Food Spot 431",
+    "cuisine": "Cafe",
+    "district": "Kannur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 432,
+    "name": "Kerala Food Spot 432",
+    "cuisine": "Seafood",
+    "district": "Ernakulam",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 433,
+    "name": "Kerala Food Spot 433",
+    "cuisine": "Street Food",
+    "district": "Idukki",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 434,
+    "name": "Kerala Food Spot 434",
+    "cuisine": "Indian",
+    "district": "Kottayam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 435,
+    "name": "Kerala Food Spot 435",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 436,
+    "name": "Kerala Food Spot 436",
+    "cuisine": "Bakery",
+    "district": "Kasaragod",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 437,
+    "name": "Kerala Food Spot 437",
+    "cuisine": "Seafood",
+    "district": "Kozhikode",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 438,
+    "name": "Kerala Food Spot 438",
+    "cuisine": "Kerala",
+    "district": "Pathanamthitta",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 439,
+    "name": "Kerala Food Spot 439",
+    "cuisine": "Cafe",
+    "district": "Malappuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 440,
+    "name": "Kerala Food Spot 440",
+    "cuisine": "Kerala",
+    "district": "Ernakulam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 441,
+    "name": "Kerala Food Spot 441",
+    "cuisine": "Bakery",
+    "district": "Pathanamthitta",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 442,
+    "name": "Kerala Food Spot 442",
+    "cuisine": "Multi-cuisine",
+    "district": "Kannur",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 443,
+    "name": "Kerala Food Spot 443",
+    "cuisine": "Street Food",
+    "district": "Wayanad",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 444,
+    "name": "Kerala Food Spot 444",
+    "cuisine": "Seafood",
+    "district": "Alappuzha",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 445,
+    "name": "Kerala Food Spot 445",
+    "cuisine": "Indian",
+    "district": "Kannur",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 446,
+    "name": "Kerala Food Spot 446",
+    "cuisine": "Bakery",
+    "district": "Thiruvananthapuram",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 447,
+    "name": "Kerala Food Spot 447",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 448,
+    "name": "Kerala Food Spot 448",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 449,
+    "name": "Kerala Food Spot 449",
+    "cuisine": "Street Food",
+    "district": "Thrissur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 450,
+    "name": "Kerala Food Spot 450",
+    "cuisine": "Cafe",
+    "district": "Thiruvananthapuram",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 451,
+    "name": "Kerala Food Spot 451",
+    "cuisine": "Kerala",
+    "district": "Ernakulam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 452,
+    "name": "Kerala Food Spot 452",
+    "cuisine": "Street Food",
+    "district": "Kozhikode",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 453,
+    "name": "Kerala Food Spot 453",
+    "cuisine": "Multi-cuisine",
+    "district": "Palakkad",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 454,
+    "name": "Kerala Food Spot 454",
+    "cuisine": "Cafe",
+    "district": "Thiruvananthapuram",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 455,
+    "name": "Kerala Food Spot 455",
+    "cuisine": "Indian",
+    "district": "Pathanamthitta",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 456,
+    "name": "Kerala Food Spot 456",
+    "cuisine": "Kerala",
+    "district": "Palakkad",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 457,
+    "name": "Kerala Food Spot 457",
+    "cuisine": "Kerala",
+    "district": "Malappuram",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 458,
+    "name": "Kerala Food Spot 458",
+    "cuisine": "Kerala",
+    "district": "Palakkad",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 459,
+    "name": "Kerala Food Spot 459",
+    "cuisine": "Multi-cuisine",
+    "district": "Kottayam",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 460,
+    "name": "Kerala Food Spot 460",
+    "cuisine": "Indian",
+    "district": "Kasaragod",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 461,
+    "name": "Kerala Food Spot 461",
+    "cuisine": "Cafe",
+    "district": "Malappuram",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 462,
+    "name": "Kerala Food Spot 462",
+    "cuisine": "Bakery",
+    "district": "Kasaragod",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 463,
+    "name": "Kerala Food Spot 463",
+    "cuisine": "Cafe",
+    "district": "Thrissur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 464,
+    "name": "Kerala Food Spot 464",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 465,
+    "name": "Kerala Food Spot 465",
+    "cuisine": "Seafood",
+    "district": "Malappuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 466,
+    "name": "Kerala Food Spot 466",
+    "cuisine": "Indian",
+    "district": "Malappuram",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 467,
+    "name": "Kerala Food Spot 467",
+    "cuisine": "Street Food",
+    "district": "Alappuzha",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 468,
+    "name": "Kerala Food Spot 468",
+    "cuisine": "Multi-cuisine",
+    "district": "Kannur",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 469,
+    "name": "Kerala Food Spot 469",
+    "cuisine": "Bakery",
+    "district": "Kasaragod",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 470,
+    "name": "Kerala Food Spot 470",
+    "cuisine": "Indian",
+    "district": "Kozhikode",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 471,
+    "name": "Kerala Food Spot 471",
+    "cuisine": "Street Food",
+    "district": "Alappuzha",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 472,
+    "name": "Kerala Food Spot 472",
+    "cuisine": "Cafe",
+    "district": "Kozhikode",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 473,
+    "name": "Kerala Food Spot 473",
+    "cuisine": "Multi-cuisine",
+    "district": "Kozhikode",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 474,
+    "name": "Kerala Food Spot 474",
+    "cuisine": "Kerala",
+    "district": "Kottayam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 475,
+    "name": "Kerala Food Spot 475",
+    "cuisine": "Seafood",
+    "district": "Kasaragod",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 476,
+    "name": "Kerala Food Spot 476",
+    "cuisine": "Indian",
+    "district": "Thrissur",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 477,
+    "name": "Kerala Food Spot 477",
+    "cuisine": "Kerala",
+    "district": "Kottayam",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 478,
+    "name": "Kerala Food Spot 478",
+    "cuisine": "Bakery",
+    "district": "Kasaragod",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 479,
+    "name": "Kerala Food Spot 479",
+    "cuisine": "Indian",
+    "district": "Kottayam",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 480,
+    "name": "Kerala Food Spot 480",
+    "cuisine": "Cafe",
+    "district": "Alappuzha",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 481,
+    "name": "Kerala Food Spot 481",
+    "cuisine": "Bakery",
+    "district": "Palakkad",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 482,
+    "name": "Kerala Food Spot 482",
+    "cuisine": "Indian",
+    "district": "Wayanad",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 483,
+    "name": "Kerala Food Spot 483",
+    "cuisine": "Street Food",
+    "district": "Thrissur",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 484,
+    "name": "Kerala Food Spot 484",
+    "cuisine": "Multi-cuisine",
+    "district": "Ernakulam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 485,
+    "name": "Kerala Food Spot 485",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 486,
+    "name": "Kerala Food Spot 486",
+    "cuisine": "Bakery",
+    "district": "Ernakulam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 487,
+    "name": "Kerala Food Spot 487",
+    "cuisine": "Multi-cuisine",
+    "district": "Kasaragod",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 488,
+    "name": "Kerala Food Spot 488",
+    "cuisine": "Bakery",
+    "district": "Alappuzha",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 489,
+    "name": "Kerala Food Spot 489",
+    "cuisine": "Seafood",
+    "district": "Thiruvananthapuram",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 490,
+    "name": "Kerala Food Spot 490",
+    "cuisine": "Cafe",
+    "district": "Thrissur",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 491,
+    "name": "Kerala Food Spot 491",
+    "cuisine": "Cafe",
+    "district": "Thrissur",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 492,
+    "name": "Kerala Food Spot 492",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 493,
+    "name": "Kerala Food Spot 493",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 494,
+    "name": "Kerala Food Spot 494",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 495,
+    "name": "Kerala Food Spot 495",
+    "cuisine": "Street Food",
+    "district": "Wayanad",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 496,
+    "name": "Kerala Food Spot 496",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 497,
+    "name": "Kerala Food Spot 497",
+    "cuisine": "Cafe",
+    "district": "Wayanad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 498,
+    "name": "Kerala Food Spot 498",
+    "cuisine": "Bakery",
+    "district": "Kozhikode",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 499,
+    "name": "Kerala Food Spot 499",
+    "cuisine": "Street Food",
+    "district": "Thrissur",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 500,
+    "name": "Kerala Food Spot 500",
+    "cuisine": "Seafood",
+    "district": "Kannur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 501,
+    "name": "Kerala Food Spot 501",
+    "cuisine": "Indian",
+    "district": "Kottayam",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 502,
+    "name": "Kerala Food Spot 502",
+    "cuisine": "Bakery",
+    "district": "Malappuram",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 503,
+    "name": "Kerala Food Spot 503",
+    "cuisine": "Indian",
+    "district": "Wayanad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 504,
+    "name": "Kerala Food Spot 504",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 505,
+    "name": "Kerala Food Spot 505",
+    "cuisine": "Bakery",
+    "district": "Ernakulam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 506,
+    "name": "Kerala Food Spot 506",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 507,
+    "name": "Kerala Food Spot 507",
+    "cuisine": "Street Food",
+    "district": "Thiruvananthapuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 508,
+    "name": "Kerala Food Spot 508",
+    "cuisine": "Street Food",
+    "district": "Kottayam",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 509,
+    "name": "Kerala Food Spot 509",
+    "cuisine": "Bakery",
+    "district": "Malappuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 510,
+    "name": "Kerala Food Spot 510",
+    "cuisine": "Bakery",
+    "district": "Kottayam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 511,
+    "name": "Kerala Food Spot 511",
+    "cuisine": "Cafe",
+    "district": "Thiruvananthapuram",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 512,
+    "name": "Kerala Food Spot 512",
+    "cuisine": "Multi-cuisine",
+    "district": "Thrissur",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 513,
+    "name": "Kerala Food Spot 513",
+    "cuisine": "Indian",
+    "district": "Thiruvananthapuram",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 514,
+    "name": "Kerala Food Spot 514",
+    "cuisine": "Cafe",
+    "district": "Kasaragod",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 515,
+    "name": "Kerala Food Spot 515",
+    "cuisine": "Bakery",
+    "district": "Ernakulam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 516,
+    "name": "Kerala Food Spot 516",
+    "cuisine": "Bakery",
+    "district": "Ernakulam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 517,
+    "name": "Kerala Food Spot 517",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 518,
+    "name": "Kerala Food Spot 518",
+    "cuisine": "Seafood",
+    "district": "Palakkad",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 519,
+    "name": "Kerala Food Spot 519",
+    "cuisine": "Cafe",
+    "district": "Ernakulam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 520,
+    "name": "Kerala Food Spot 520",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 521,
+    "name": "Kerala Food Spot 521",
+    "cuisine": "Seafood",
+    "district": "Kozhikode",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 522,
+    "name": "Kerala Food Spot 522",
+    "cuisine": "Street Food",
+    "district": "Kozhikode",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 523,
+    "name": "Kerala Food Spot 523",
+    "cuisine": "Kerala",
+    "district": "Thrissur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 524,
+    "name": "Kerala Food Spot 524",
+    "cuisine": "Indian",
+    "district": "Kannur",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 525,
+    "name": "Kerala Food Spot 525",
+    "cuisine": "Seafood",
+    "district": "Kasaragod",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 526,
+    "name": "Kerala Food Spot 526",
+    "cuisine": "Cafe",
+    "district": "Thiruvananthapuram",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 527,
+    "name": "Kerala Food Spot 527",
+    "cuisine": "Seafood",
+    "district": "Kozhikode",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 528,
+    "name": "Kerala Food Spot 528",
+    "cuisine": "Multi-cuisine",
+    "district": "Alappuzha",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 529,
+    "name": "Kerala Food Spot 529",
+    "cuisine": "Multi-cuisine",
+    "district": "Thiruvananthapuram",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 530,
+    "name": "Kerala Food Spot 530",
+    "cuisine": "Street Food",
+    "district": "Kasaragod",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 531,
+    "name": "Kerala Food Spot 531",
+    "cuisine": "Cafe",
+    "district": "Kannur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 532,
+    "name": "Kerala Food Spot 532",
+    "cuisine": "Cafe",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 533,
+    "name": "Kerala Food Spot 533",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 534,
+    "name": "Kerala Food Spot 534",
+    "cuisine": "Bakery",
+    "district": "Kottayam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 535,
+    "name": "Kerala Food Spot 535",
+    "cuisine": "Seafood",
+    "district": "Thrissur",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 536,
+    "name": "Kerala Food Spot 536",
+    "cuisine": "Bakery",
+    "district": "Alappuzha",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 537,
+    "name": "Kerala Food Spot 537",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 538,
+    "name": "Kerala Food Spot 538",
+    "cuisine": "Indian",
+    "district": "Ernakulam",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 539,
+    "name": "Kerala Food Spot 539",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 540,
+    "name": "Kerala Food Spot 540",
+    "cuisine": "Kerala",
+    "district": "Idukki",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 541,
+    "name": "Kerala Food Spot 541",
+    "cuisine": "Seafood",
+    "district": "Palakkad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 542,
+    "name": "Kerala Food Spot 542",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 543,
+    "name": "Kerala Food Spot 543",
+    "cuisine": "Bakery",
+    "district": "Alappuzha",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 544,
+    "name": "Kerala Food Spot 544",
+    "cuisine": "Bakery",
+    "district": "Ernakulam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 545,
+    "name": "Kerala Food Spot 545",
+    "cuisine": "Street Food",
+    "district": "Kozhikode",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 546,
+    "name": "Kerala Food Spot 546",
+    "cuisine": "Kerala",
+    "district": "Pathanamthitta",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 547,
+    "name": "Kerala Food Spot 547",
+    "cuisine": "Seafood",
+    "district": "Pathanamthitta",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 548,
+    "name": "Kerala Food Spot 548",
+    "cuisine": "Seafood",
+    "district": "Kozhikode",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 549,
+    "name": "Kerala Food Spot 549",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 550,
+    "name": "Kerala Food Spot 550",
+    "cuisine": "Multi-cuisine",
+    "district": "Kannur",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 551,
+    "name": "Kerala Food Spot 551",
+    "cuisine": "Multi-cuisine",
+    "district": "Kozhikode",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 552,
+    "name": "Kerala Food Spot 552",
+    "cuisine": "Seafood",
+    "district": "Ernakulam",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 553,
+    "name": "Kerala Food Spot 553",
+    "cuisine": "Indian",
+    "district": "Thrissur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 554,
+    "name": "Kerala Food Spot 554",
+    "cuisine": "Cafe",
+    "district": "Pathanamthitta",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 555,
+    "name": "Kerala Food Spot 555",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 556,
+    "name": "Kerala Food Spot 556",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 557,
+    "name": "Kerala Food Spot 557",
+    "cuisine": "Seafood",
+    "district": "Kollam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 558,
+    "name": "Kerala Food Spot 558",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 559,
+    "name": "Kerala Food Spot 559",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 560,
+    "name": "Kerala Food Spot 560",
+    "cuisine": "Bakery",
+    "district": "Idukki",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 561,
+    "name": "Kerala Food Spot 561",
+    "cuisine": "Cafe",
+    "district": "Kannur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 562,
+    "name": "Kerala Food Spot 562",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 563,
+    "name": "Kerala Food Spot 563",
+    "cuisine": "Cafe",
+    "district": "Palakkad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 564,
+    "name": "Kerala Food Spot 564",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 565,
+    "name": "Kerala Food Spot 565",
+    "cuisine": "Cafe",
+    "district": "Pathanamthitta",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 566,
+    "name": "Kerala Food Spot 566",
+    "cuisine": "Seafood",
+    "district": "Alappuzha",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 567,
+    "name": "Kerala Food Spot 567",
+    "cuisine": "Seafood",
+    "district": "Kottayam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 568,
+    "name": "Kerala Food Spot 568",
+    "cuisine": "Bakery",
+    "district": "Kasaragod",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 569,
+    "name": "Kerala Food Spot 569",
+    "cuisine": "Cafe",
+    "district": "Thiruvananthapuram",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 570,
+    "name": "Kerala Food Spot 570",
+    "cuisine": "Bakery",
+    "district": "Kozhikode",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 571,
+    "name": "Kerala Food Spot 571",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 572,
+    "name": "Kerala Food Spot 572",
+    "cuisine": "Multi-cuisine",
+    "district": "Thrissur",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 573,
+    "name": "Kerala Food Spot 573",
+    "cuisine": "Multi-cuisine",
+    "district": "Ernakulam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 574,
+    "name": "Kerala Food Spot 574",
+    "cuisine": "Kerala",
+    "district": "Malappuram",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 575,
+    "name": "Kerala Food Spot 575",
+    "cuisine": "Cafe",
+    "district": "Ernakulam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 576,
+    "name": "Kerala Food Spot 576",
+    "cuisine": "Street Food",
+    "district": "Kottayam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 577,
+    "name": "Kerala Food Spot 577",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 578,
+    "name": "Kerala Food Spot 578",
+    "cuisine": "Bakery",
+    "district": "Idukki",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 579,
+    "name": "Kerala Food Spot 579",
+    "cuisine": "Bakery",
+    "district": "Kottayam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 580,
+    "name": "Kerala Food Spot 580",
+    "cuisine": "Kerala",
+    "district": "Thrissur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 581,
+    "name": "Kerala Food Spot 581",
+    "cuisine": "Seafood",
+    "district": "Idukki",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 582,
+    "name": "Kerala Food Spot 582",
+    "cuisine": "Street Food",
+    "district": "Wayanad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 583,
+    "name": "Kerala Food Spot 583",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 584,
+    "name": "Kerala Food Spot 584",
+    "cuisine": "Cafe",
+    "district": "Thrissur",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 585,
+    "name": "Kerala Food Spot 585",
+    "cuisine": "Seafood",
+    "district": "Kannur",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 586,
+    "name": "Kerala Food Spot 586",
+    "cuisine": "Kerala",
+    "district": "Pathanamthitta",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 587,
+    "name": "Kerala Food Spot 587",
+    "cuisine": "Bakery",
+    "district": "Kottayam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 588,
+    "name": "Kerala Food Spot 588",
+    "cuisine": "Kerala",
+    "district": "Palakkad",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 589,
+    "name": "Kerala Food Spot 589",
+    "cuisine": "Kerala",
+    "district": "Thrissur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 590,
+    "name": "Kerala Food Spot 590",
+    "cuisine": "Street Food",
+    "district": "Kozhikode",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 591,
+    "name": "Kerala Food Spot 591",
+    "cuisine": "Indian",
+    "district": "Kottayam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 592,
+    "name": "Kerala Food Spot 592",
+    "cuisine": "Cafe",
+    "district": "Ernakulam",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 593,
+    "name": "Kerala Food Spot 593",
+    "cuisine": "Multi-cuisine",
+    "district": "Kannur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 594,
+    "name": "Kerala Food Spot 594",
+    "cuisine": "Seafood",
+    "district": "Malappuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 595,
+    "name": "Kerala Food Spot 595",
+    "cuisine": "Bakery",
+    "district": "Kozhikode",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 596,
+    "name": "Kerala Food Spot 596",
+    "cuisine": "Cafe",
+    "district": "Wayanad",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 597,
+    "name": "Kerala Food Spot 597",
+    "cuisine": "Multi-cuisine",
+    "district": "Alappuzha",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 598,
+    "name": "Kerala Food Spot 598",
+    "cuisine": "Cafe",
+    "district": "Kasaragod",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 599,
+    "name": "Kerala Food Spot 599",
+    "cuisine": "Indian",
+    "district": "Idukki",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 600,
+    "name": "Kerala Food Spot 600",
+    "cuisine": "Kerala",
+    "district": "Thrissur",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 601,
+    "name": "Kerala Food Spot 601",
+    "cuisine": "Cafe",
+    "district": "Pathanamthitta",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 602,
+    "name": "Kerala Food Spot 602",
+    "cuisine": "Seafood",
+    "district": "Thiruvananthapuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 603,
+    "name": "Kerala Food Spot 603",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 604,
+    "name": "Kerala Food Spot 604",
+    "cuisine": "Kerala",
+    "district": "Palakkad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 605,
+    "name": "Kerala Food Spot 605",
+    "cuisine": "Cafe",
+    "district": "Kannur",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 606,
+    "name": "Kerala Food Spot 606",
+    "cuisine": "Street Food",
+    "district": "Kozhikode",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 607,
+    "name": "Kerala Food Spot 607",
+    "cuisine": "Indian",
+    "district": "Thrissur",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 608,
+    "name": "Kerala Food Spot 608",
+    "cuisine": "Indian",
+    "district": "Thiruvananthapuram",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 609,
+    "name": "Kerala Food Spot 609",
+    "cuisine": "Cafe",
+    "district": "Ernakulam",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 610,
+    "name": "Kerala Food Spot 610",
+    "cuisine": "Cafe",
+    "district": "Thiruvananthapuram",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 611,
+    "name": "Kerala Food Spot 611",
+    "cuisine": "Seafood",
+    "district": "Thiruvananthapuram",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 612,
+    "name": "Kerala Food Spot 612",
+    "cuisine": "Street Food",
+    "district": "Pathanamthitta",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 613,
+    "name": "Kerala Food Spot 613",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 614,
+    "name": "Kerala Food Spot 614",
+    "cuisine": "Cafe",
+    "district": "Wayanad",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 615,
+    "name": "Kerala Food Spot 615",
+    "cuisine": "Indian",
+    "district": "Wayanad",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 616,
+    "name": "Kerala Food Spot 616",
+    "cuisine": "Indian",
+    "district": "Palakkad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 617,
+    "name": "Kerala Food Spot 617",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 618,
+    "name": "Kerala Food Spot 618",
+    "cuisine": "Seafood",
+    "district": "Thiruvananthapuram",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 619,
+    "name": "Kerala Food Spot 619",
+    "cuisine": "Street Food",
+    "district": "Thrissur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 620,
+    "name": "Kerala Food Spot 620",
+    "cuisine": "Cafe",
+    "district": "Palakkad",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 621,
+    "name": "Kerala Food Spot 621",
+    "cuisine": "Seafood",
+    "district": "Wayanad",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 622,
+    "name": "Kerala Food Spot 622",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 623,
+    "name": "Kerala Food Spot 623",
+    "cuisine": "Cafe",
+    "district": "Idukki",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 624,
+    "name": "Kerala Food Spot 624",
+    "cuisine": "Indian",
+    "district": "Ernakulam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 625,
+    "name": "Kerala Food Spot 625",
+    "cuisine": "Seafood",
+    "district": "Thrissur",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 626,
+    "name": "Kerala Food Spot 626",
+    "cuisine": "Street Food",
+    "district": "Alappuzha",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 627,
+    "name": "Kerala Food Spot 627",
+    "cuisine": "Indian",
+    "district": "Palakkad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 628,
+    "name": "Kerala Food Spot 628",
+    "cuisine": "Kerala",
+    "district": "Wayanad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 629,
+    "name": "Kerala Food Spot 629",
+    "cuisine": "Multi-cuisine",
+    "district": "Alappuzha",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 630,
+    "name": "Kerala Food Spot 630",
+    "cuisine": "Bakery",
+    "district": "Thiruvananthapuram",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 631,
+    "name": "Kerala Food Spot 631",
+    "cuisine": "Bakery",
+    "district": "Kasaragod",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 632,
+    "name": "Kerala Food Spot 632",
+    "cuisine": "Seafood",
+    "district": "Thrissur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 633,
+    "name": "Kerala Food Spot 633",
+    "cuisine": "Kerala",
+    "district": "Idukki",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 634,
+    "name": "Kerala Food Spot 634",
+    "cuisine": "Kerala",
+    "district": "Wayanad",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 635,
+    "name": "Kerala Food Spot 635",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 636,
+    "name": "Kerala Food Spot 636",
+    "cuisine": "Cafe",
+    "district": "Thiruvananthapuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 637,
+    "name": "Kerala Food Spot 637",
+    "cuisine": "Street Food",
+    "district": "Idukki",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 638,
+    "name": "Kerala Food Spot 638",
+    "cuisine": "Multi-cuisine",
+    "district": "Thiruvananthapuram",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 639,
+    "name": "Kerala Food Spot 639",
+    "cuisine": "Indian",
+    "district": "Thrissur",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 640,
+    "name": "Kerala Food Spot 640",
+    "cuisine": "Multi-cuisine",
+    "district": "Malappuram",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 641,
+    "name": "Kerala Food Spot 641",
+    "cuisine": "Indian",
+    "district": "Ernakulam",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 642,
+    "name": "Kerala Food Spot 642",
+    "cuisine": "Street Food",
+    "district": "Ernakulam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 643,
+    "name": "Kerala Food Spot 643",
+    "cuisine": "Kerala",
+    "district": "Idukki",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 644,
+    "name": "Kerala Food Spot 644",
+    "cuisine": "Indian",
+    "district": "Malappuram",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 645,
+    "name": "Kerala Food Spot 645",
+    "cuisine": "Street Food",
+    "district": "Kozhikode",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 646,
+    "name": "Kerala Food Spot 646",
+    "cuisine": "Bakery",
+    "district": "Kollam",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 647,
+    "name": "Kerala Food Spot 647",
+    "cuisine": "Cafe",
+    "district": "Kottayam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 648,
+    "name": "Kerala Food Spot 648",
+    "cuisine": "Seafood",
+    "district": "Kollam",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 649,
+    "name": "Kerala Food Spot 649",
+    "cuisine": "Indian",
+    "district": "Pathanamthitta",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 650,
+    "name": "Kerala Food Spot 650",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 651,
+    "name": "Kerala Food Spot 651",
+    "cuisine": "Multi-cuisine",
+    "district": "Kollam",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 652,
+    "name": "Kerala Food Spot 652",
+    "cuisine": "Multi-cuisine",
+    "district": "Thrissur",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 653,
+    "name": "Kerala Food Spot 653",
+    "cuisine": "Street Food",
+    "district": "Malappuram",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 654,
+    "name": "Kerala Food Spot 654",
+    "cuisine": "Cafe",
+    "district": "Kannur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 655,
+    "name": "Kerala Food Spot 655",
+    "cuisine": "Kerala",
+    "district": "Kannur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 656,
+    "name": "Kerala Food Spot 656",
+    "cuisine": "Seafood",
+    "district": "Idukki",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 657,
+    "name": "Kerala Food Spot 657",
+    "cuisine": "Multi-cuisine",
+    "district": "Idukki",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 658,
+    "name": "Kerala Food Spot 658",
+    "cuisine": "Indian",
+    "district": "Wayanad",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 659,
+    "name": "Kerala Food Spot 659",
+    "cuisine": "Indian",
+    "district": "Kollam",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 660,
+    "name": "Kerala Food Spot 660",
+    "cuisine": "Multi-cuisine",
+    "district": "Wayanad",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 661,
+    "name": "Kerala Food Spot 661",
+    "cuisine": "Kerala",
+    "district": "Kollam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 662,
+    "name": "Kerala Food Spot 662",
+    "cuisine": "Multi-cuisine",
+    "district": "Malappuram",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 663,
+    "name": "Kerala Food Spot 663",
+    "cuisine": "Kerala",
+    "district": "Kasaragod",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 664,
+    "name": "Kerala Food Spot 664",
+    "cuisine": "Kerala",
+    "district": "Thrissur",
+    "rating": 3.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 665,
+    "name": "Kerala Food Spot 665",
+    "cuisine": "Street Food",
+    "district": "Kannur",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 666,
+    "name": "Kerala Food Spot 666",
+    "cuisine": "Seafood",
+    "district": "Thrissur",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 667,
+    "name": "Kerala Food Spot 667",
+    "cuisine": "Indian",
+    "district": "Palakkad",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 668,
+    "name": "Kerala Food Spot 668",
+    "cuisine": "Seafood",
+    "district": "Wayanad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 669,
+    "name": "Kerala Food Spot 669",
+    "cuisine": "Kerala",
+    "district": "Wayanad",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 670,
+    "name": "Kerala Food Spot 670",
+    "cuisine": "Indian",
+    "district": "Kannur",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 671,
+    "name": "Kerala Food Spot 671",
+    "cuisine": "Kerala",
+    "district": "Thrissur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 672,
+    "name": "Kerala Food Spot 672",
+    "cuisine": "Bakery",
+    "district": "Thrissur",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 673,
+    "name": "Kerala Food Spot 673",
+    "cuisine": "Seafood",
+    "district": "Palakkad",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 674,
+    "name": "Kerala Food Spot 674",
+    "cuisine": "Seafood",
+    "district": "Alappuzha",
+    "rating": 3.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 675,
+    "name": "Kerala Food Spot 675",
+    "cuisine": "Street Food",
+    "district": "Kasaragod",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 676,
+    "name": "Kerala Food Spot 676",
+    "cuisine": "Street Food",
+    "district": "Malappuram",
+    "rating": 4.4,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 677,
+    "name": "Kerala Food Spot 677",
+    "cuisine": "Indian",
+    "district": "Thiruvananthapuram",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 678,
+    "name": "Kerala Food Spot 678",
+    "cuisine": "Kerala",
+    "district": "Palakkad",
+    "rating": 4.7,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 679,
+    "name": "Kerala Food Spot 679",
+    "cuisine": "Kerala",
+    "district": "Kozhikode",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 680,
+    "name": "Kerala Food Spot 680",
+    "cuisine": "Street Food",
+    "district": "Alappuzha",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 681,
+    "name": "Kerala Food Spot 681",
+    "cuisine": "Bakery",
+    "district": "Thiruvananthapuram",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 682,
+    "name": "Kerala Food Spot 682",
+    "cuisine": "Bakery",
+    "district": "Kannur",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 683,
+    "name": "Kerala Food Spot 683",
+    "cuisine": "Indian",
+    "district": "Pathanamthitta",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 684,
+    "name": "Kerala Food Spot 684",
+    "cuisine": "Bakery",
+    "district": "Idukki",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 685,
+    "name": "Kerala Food Spot 685",
+    "cuisine": "Kerala",
+    "district": "Alappuzha",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 686,
+    "name": "Kerala Food Spot 686",
+    "cuisine": "Bakery",
+    "district": "Wayanad",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 687,
+    "name": "Kerala Food Spot 687",
+    "cuisine": "Bakery",
+    "district": "Kozhikode",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 688,
+    "name": "Kerala Food Spot 688",
+    "cuisine": "Multi-cuisine",
+    "district": "Idukki",
+    "rating": 3.9,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 689,
+    "name": "Kerala Food Spot 689",
+    "cuisine": "Kerala",
+    "district": "Alappuzha",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 690,
+    "name": "Kerala Food Spot 690",
+    "cuisine": "Street Food",
+    "district": "Malappuram",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 691,
+    "name": "Kerala Food Spot 691",
+    "cuisine": "Bakery",
+    "district": "Alappuzha",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 692,
+    "name": "Kerala Food Spot 692",
+    "cuisine": "Street Food",
+    "district": "Wayanad",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 693,
+    "name": "Kerala Food Spot 693",
+    "cuisine": "Bakery",
+    "district": "Kannur",
+    "rating": 4.2,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 694,
+    "name": "Kerala Food Spot 694",
+    "cuisine": "Kerala",
+    "district": "Kozhikode",
+    "rating": 4.1,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 695,
+    "name": "Kerala Food Spot 695",
+    "cuisine": "Cafe",
+    "district": "Ernakulam",
+    "rating": 4.5,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 696,
+    "name": "Kerala Food Spot 696",
+    "cuisine": "Multi-cuisine",
+    "district": "Alappuzha",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 697,
+    "name": "Kerala Food Spot 697",
+    "cuisine": "Multi-cuisine",
+    "district": "Ernakulam",
+    "rating": 4.6,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 698,
+    "name": "Kerala Food Spot 698",
+    "cuisine": "Bakery",
+    "district": "Kozhikode",
+    "rating": 4.3,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 699,
+    "name": "Kerala Food Spot 699",
+    "cuisine": "Bakery",
+    "district": "Malappuram",
+    "rating": 4.0,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": 700,
+    "name": "Kerala Food Spot 700",
+    "cuisine": "Seafood",
+    "district": "Malappuram",
+    "rating": 3.8,
+    "latitude": null,
+    "longitude": null
+  }
+]

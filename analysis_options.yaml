@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - prefer_single_quotes
+    - sort_pub_dependencies
+    - use_key_in_widget_constructors
+    - prefer_const_constructors
+    - prefer_const_declarations

@@ -1,0 +1,59 @@
+name: nadodi
+description: Nadodi - Kerala Tourism Explorer
+publish_to: 'none'
+version: 2.1.0+3
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Core
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  http: ^1.2.2
+  intl: ^0.19.0
+  google_fonts: ^6.2.1
+
+  # Supabase (replaces Firebase)
+  supabase_flutter: ^2.5.6
+
+  # Maps - using flutter_map (OpenStreetMap, no Google Maps API needed)
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+
+  # Location & Permissions
+  geolocator: ^12.0.0
+  permission_handler: ^11.3.1
+
+  # Images - optimized loading with memory management
+  cached_network_image: ^3.4.1
+
+  # Local storage
+  shared_preferences: ^2.3.2
+
+  # Rating
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/
+    - assets/images/
+    - assets/fonts/
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Variable.ttf
+    - family: InterDisplay
+      fonts:
+        - asset: assets/fonts/InterDisplay-Variable.ttf
