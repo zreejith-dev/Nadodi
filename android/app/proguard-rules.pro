@@ -84,6 +84,3 @@
     public static **[] values();
     public static ** valueOf(java.lang.String);
 }
-
-# Remove unused resource strings (Google Play 2027 memory optimization)
--shrinkresources
