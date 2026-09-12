@@ -1,4 +1,4 @@
-// Nadodi v2.0 widget smoke tests.
+// Nadodi widget smoke tests.
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -15,17 +15,17 @@ void main() {
 
     // Splash branding is visible.
     expect(find.text('Nadodi'), findsOneWidget);
-    expect(find.text('Explore Kerala · Without Fear'), findsOneWidget);
+    expect(find.text('Kerala Tourism Explorer'), findsOneWidget);
 
-    // Let the splash finish (2.6s) and settle navigation.
+    // Let the splash finish and settle navigation.
     await tester.pump(const Duration(seconds: 3));
     await tester.pumpAndSettle();
 
-    // Home screen shows core redesigned UI.
-    expect(find.text('Explore Districts'), findsOneWidget);
-    expect(find.text('Curated for you'), findsOneWidget);
-    expect(find.text('Local Experiences'), findsOneWidget);
-    expect(find.text('Popular Places'), findsOneWidget);
+    // Home screen shows core UI.
+    expect(find.text('Nadodi'), findsOneWidget);
+    expect(find.byIcon(Icons.search_rounded), findsOneWidget);
+    expect(find.byIcon(Icons.bookmark_rounded), findsOneWidget);
+    expect(find.byIcon(Icons.person_rounded), findsOneWidget);
 
     // Flush the async dataset load (rootBundle + provider rebuilds).
     await tester.runAsync(() async {
