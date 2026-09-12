@@ -38,24 +38,11 @@ android {
         vectorDrawables.useSupportLibrary = true
     }
 
-    // Google Play 2027: Memory optimization - split APKs by ABI and density
-    splits {
-        abi {
-            enable = true
-            reset()
-            include("arm64-v8a", "armeabi-v7a", "x86_64")
-            universalApk = false
-        }
-        density {
-            enable = true
-            reset()
-            include("mdpi", "hdpi", "xhdpi", "xxhdpi", "xxxhdpi")
-        }
-    }
+    // APK splits handled by `flutter build apk --split-per-abi` in CI
 
     signingConfigs {
-        create("release") {
-            if (keystorePropertiesFile.exists()) {
+        if (keystorePropertiesFile.exists()) {
+            create("release") {
                 keyAlias = keystoreProperties["keyAlias"] as String
                 keyPassword = keystoreProperties["keyPassword"] as String
                 storeFile = file(keystoreProperties["storeFile"] as String)
@@ -66,18 +53,18 @@ android {
 
     buildTypes {
         release {
-            check(keystorePropertiesFile.exists()) {
-                "Release signing keystore not found: android/key.properties is missing. " +
-                    "Create it before building a release APK."
+            if (keystorePropertiesFile.exists()) {
+                signingConfig = signingConfigs.getByName("release")
+            } else {
+                // CI builds: use debug signing when no keystore is available
+                signingConfig = signingConfigs.getByName("debug")
             }
-            signingConfig = signingConfigs.getByName("release")
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro",
             )
-            // Google Play 2027: Reduce memory footprint
             debuggable = false
             jniDebuggable = false
             renderscriptDebuggable = false

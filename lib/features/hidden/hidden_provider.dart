@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../../shared/services/data_service.dart';
-import '../../../shared/models/place.dart';
+import '../../shared/services/data_service.dart';
+import '../../shared/models/place.dart';
 
 class HiddenSpotsProvider extends ChangeNotifier {
   final DataService _dataService = DataService();

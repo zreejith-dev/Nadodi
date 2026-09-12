@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../shared/models/place.dart';
+import '../models/place.dart';
 import 'optimized_image.dart';
 
 class PlaceCard extends StatelessWidget {

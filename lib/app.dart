@@ -1,20 +1,20 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../../core/services/supabase_service.dart';
-import '../../features/auth/auth_provider.dart';
-import '../../features/places/places_provider.dart';
-import '../../features/hidden/hidden_provider.dart';
-import '../../shared/models/place.dart';
-import '../../shared/services/data_service.dart';
-import '../screens/splash_screen.dart';
-import '../screens/home_screen.dart';
-import '../screens/place_detail_screen.dart';
-import '../screens/hidden_places_screen.dart';
-import '../screens/saved_places_screen.dart';
-import '../screens/profile_screen.dart';
-import '../screens/map_screen.dart';
-import '../screens/auth_screen.dart';
-import '../theme/app_theme.dart';
+import 'core/services/supabase_service.dart';
+import 'features/auth/auth_provider.dart';
+import 'features/places/places_provider.dart';
+import 'features/hidden/hidden_provider.dart';
+import 'shared/models/place.dart';
+import 'shared/services/data_service.dart';
+import 'screens/splash_screen.dart';
+import 'screens/home_screen.dart';
+import 'screens/place_detail_screen.dart';
+import 'screens/hidden_places_screen.dart';
+import 'screens/saved_places_screen.dart';
+import 'screens/profile_screen.dart';
+import 'screens/map_screen.dart';
+import 'screens/auth_screen.dart';
+import 'theme/app_theme.dart';
 
 class AppRoutes {
   static const String splash = '/';

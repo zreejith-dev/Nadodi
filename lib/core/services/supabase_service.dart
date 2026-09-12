@@ -1,5 +1,5 @@
 import 'package:supabase_flutter/supabase_flutter.dart';
-import 'supabase_config.dart';
+import '../config/supabase_config.dart';
 
 class SupabaseService {
   static final SupabaseService _instance = SupabaseService._internal();

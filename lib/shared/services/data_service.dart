@@ -2,8 +2,8 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-import '../../shared/models/place.dart';
-import '../config/supabase_config.dart';
+import '../models/place.dart';
+import '../../core/config/supabase_config.dart';
 
 class DataService {
   static final DataService _instance = DataService._internal();

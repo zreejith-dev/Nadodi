@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../features/places/places_provider.dart';
-import '../features/hidden/hidden_provider.dart'
-    hide HiddenSpotsProvider;
-import '../shared/services/data_service.dart';
+import '../features/hidden/hidden_provider.dart';
 import '../shared/models/place.dart';
 import '../shared/widgets/cards.dart';
 import '../shared/widgets/optimized_image.dart';
