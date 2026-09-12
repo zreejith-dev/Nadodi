@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:supabase_flutter/supabase_flutter.dart' show User;
 import '../features/auth/auth_provider.dart';
 import '../features/places/places_provider.dart';
 import '../core/services/supabase_service.dart';
@@ -100,10 +101,10 @@ class _ProfileScreenState extends State<ProfileScreen> {
           CircleAvatar(
             radius: 50,
             backgroundColor: Theme.of(context).colorScheme.primary,
-            backgroundImage: user?.userMetadata['avatar_url'] != null
-                ? NetworkImage(user!.userMetadata['avatar_url'])
+            backgroundImage: (user?.userMetadata?['avatar_url'] != null)
+                ? NetworkImage(user!.userMetadata!['avatar_url'])
                 : null,
-            child: user?.userMetadata['avatar_url'] == null
+            child: (user?.userMetadata?['avatar_url'] == null)
                 ? Text(
                     user?.email?.substring(0, 1).toUpperCase() ?? 'G',
                     style: const TextStyle(fontSize: 32, fontWeight: FontWeight.w600, color: Colors.white),
@@ -113,7 +114,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
           const SizedBox(height: 16),
           // Name
           Text(
-            user?.userMetadata['full_name'] ?? user?.email?.split('@').first ?? 'Guest User',
+            user?.userMetadata?['full_name'] ?? user?.email?.split('@').first ?? 'Guest User',
             style: Theme.of(context).textTheme.headlineMedium?.copyWith(
               fontWeight: FontWeight.w700,
             ),

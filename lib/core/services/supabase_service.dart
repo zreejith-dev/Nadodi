@@ -22,14 +22,14 @@ class SupabaseService {
   User? get currentUser => client.auth.currentUser;
   Stream<AuthState> get authStateChanges => client.auth.onAuthStateChange;
 
-  Future<AuthResponse> signInWithGoogle() async {
+  Future<bool> signInWithGoogle() async {
     return await client.auth.signInWithOAuth(
       OAuthProvider.google,
       redirectTo: 'io.supabase.nadodi://login-callback',
     );
   }
 
-  Future<AuthResponse> signInWithApple() async {
+  Future<bool> signInWithApple() async {
     return await client.auth.signInWithOAuth(
       OAuthProvider.apple,
       redirectTo: 'io.supabase.nadodi://login-callback',

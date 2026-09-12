@@ -77,15 +77,15 @@ class NadodiApp extends StatelessWidget {
         Provider(create: (_) => DataService()),
         ChangeNotifierProxyProvider<SupabaseService, AuthProvider>(
           create: (_) => AuthProvider(),
-          update: (_, supabase, auth) => auth..initialize(),
+          update: (_, supabase, auth) => (auth ?? AuthProvider())..initialize(),
         ),
         ChangeNotifierProxyProvider<DataService, PlacesProvider>(
           create: (_) => PlacesProvider(),
-          update: (_, data, places) => places..loadData(),
+          update: (_, data, places) => (places ?? PlacesProvider())..loadData(),
         ),
         ChangeNotifierProxyProvider<DataService, HiddenSpotsProvider>(
           create: (_) => HiddenSpotsProvider(),
-          update: (_, data, hidden) => hidden..loadData(),
+          update: (_, data, hidden) => (hidden ?? HiddenSpotsProvider())..loadData(),
         ),
       ],
       child: Consumer<AuthProvider>(

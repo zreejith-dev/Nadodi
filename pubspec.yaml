@@ -47,13 +47,3 @@ flutter:
 
   assets:
     - assets/data/
-    - assets/images/
-    - assets/fonts/
-
-  fonts:
-    - family: Inter
-      fonts:
-        - asset: assets/fonts/Inter-Variable.ttf
-    - family: InterDisplay
-      fonts:
-        - asset: assets/fonts/InterDisplay-Variable.ttf

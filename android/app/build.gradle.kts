@@ -23,8 +23,10 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
 
-    kotlinOptions {
-        jvmTarget = JavaVersion.VERSION_17.toString()
+    kotlin {
+        compilerOptions {
+            jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17)
+        }
     }
 
     defaultConfig {
@@ -34,11 +36,8 @@ android {
         versionCode = flutter.versionCode
         versionName = flutter.versionName
         multiDexEnabled = true
-        // Google Play 2027: Optimize for lower memory
         vectorDrawables.useSupportLibrary = true
     }
-
-    // APK splits handled by `flutter build apk --split-per-abi` in CI
 
     signingConfigs {
         if (keystorePropertiesFile.exists()) {
@@ -56,7 +55,6 @@ android {
             if (keystorePropertiesFile.exists()) {
                 signingConfig = signingConfigs.getByName("release")
             } else {
-                // CI builds: use debug signing when no keystore is available
                 signingConfig = signingConfigs.getByName("debug")
             }
             isMinifyEnabled = true
@@ -65,31 +63,10 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro",
             )
-            debuggable = false
-            jniDebuggable = false
-            renderscriptDebuggable = false
-        }
-        debug {
-            isMinifyEnabled = false
-            isShrinkResources = false
-            debuggable = true
         }
     }
 
-    // Google Play 2027: App Bundle for dynamic delivery
-    bundle {
-        language {
-            enableSplit = true
-        }
-        density {
-            enableSplit = true
-        }
-        abi {
-            enableSplit = true
-        }
-    }
-
-    packagingOptions {
+    packaging {
         resources {
             excludes += "/META-INF/*"
         }
@@ -104,7 +81,6 @@ flutter {
 }
 
 dependencies {
-    // Google Play 2027: Credential Manager for Zero-Tap Sign-In
     implementation("androidx.credentials:credentials:1.5.0")
     implementation("androidx.credentials:credentials-play-services-auth:1.5.0")
     implementation("com.google.android.gms:play-services-auth:21.0.0")
