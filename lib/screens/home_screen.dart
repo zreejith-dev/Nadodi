@@ -138,6 +138,7 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _buildCategoryChips(BuildContext context, PlacesProvider provider) {
+    final theme = Theme.of(context);
     final categories = ['All', ...provider.categories];
     return SizedBox(
       height: 50,

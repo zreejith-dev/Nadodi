@@ -8,6 +8,7 @@ class HiddenSpotsProvider extends ChangeNotifier {
   String _selectedDistrict = '';
   String _selectedDifficulty = '';
   String _searchQuery = '';
+  bool _isLoading = false;
 
   List<HiddenSpot> get spots => _dataService.hiddenSpots;
   List<HiddenSpot> get filteredSpots => _applyFilters(_dataService.hiddenSpots);
@@ -17,6 +18,19 @@ class HiddenSpotsProvider extends ChangeNotifier {
   String get selectedDistrict => _selectedDistrict;
   String get selectedDifficulty => _selectedDifficulty;
   String get searchQuery => _searchQuery;
+  bool get isLoading => _isLoading;
+
+  Future<void> loadData() async {
+    if (_dataService.isLoaded) return;
+    
+    _isLoading = true;
+    notifyListeners();
+    
+    await _dataService.loadLocalData();
+    
+    _isLoading = false;
+    notifyListeners();
+  }
 
   void setDistrict(String district) {
     _selectedDistrict = district;

@@ -4,13 +4,20 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
 
 jobs:
   build:
+    name: Build Android APK
     runs-on: ubuntu-latest
+    timeout-minutes: 45
+    
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Setup Java 17
         uses: actions/setup-java@v4
@@ -22,45 +29,131 @@ jobs:
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.24.0'
+          flutter-version: '3.24.3'
           channel: 'stable'
           cache: true
+          cache-key: 'flutter-${{ runner.os }}-${{ hashFiles('**/pubspec.lock') }}'
 
-      - name: Verify Flutter
-        run: flutter doctor -v
+      - name: Verify Flutter & Environment
+        run: |
+          flutter doctor -v
+          echo "Flutter version: $(flutter --version)"
+          echo "Java version: $(java -version 2>&1 | head -1)"
+          echo "Gradle version: $(gradle -v 2>&1 | head -1)"
 
       - name: Get dependencies
         run: flutter pub get
+        env:
+          PUB_CACHE: ${{ github.workspace }}/.pub-cache
+
+      - name: Run static analysis
+        run: flutter analyze --no-fatal-infos
+
+      - name: Run tests
+        run: flutter test --no-pub
 
       - name: Clean build
         run: flutter clean
 
-      - name: Build Debug APK
-        run: flutter build apk --debug --split-per-abi --verbose
+      - name: Build Release APK (split per ABI)
+        run: |
+          flutter build apk \
+            --release \
+            --split-per-abi \
+            --target-platform android-arm,android-arm64,android-x64 \
+            --verbose
 
-      - name: Rename APKs
+      - name: Verify APKs exist
+        run: |
+          echo "=== Build outputs ==="
+          ls -la build/app/outputs/flutter-apk/
+          echo "=== APK sizes ==="
+          for f in build/app/outputs/flutter-apk/app-*-release.apk; do
+            [[ -f "$f" ]] && echo "$(basename "$f"): $(du -h "$f" | cut -f1)"
+          done
+
+      - name: Prepare artifacts
         run: |
           mkdir -p artifacts
-          for f in build/app/outputs/flutter-apk/app-*-debug.apk; do
-            abi=$(basename "$f" .apk | sed 's/app-//' | sed 's/-debug//')
-            cp "$f" "artifacts/nadodi-new-apk-${abi}.apk"
+          timestamp=$(date +%Y%m%d-%H%M%S)
+          commit_short=$(git rev-parse --short HEAD)
+          
+          for f in build/app/outputs/flutter-apk/app-*-release.apk; do
+            [[ -f "$f" ]] || continue
+            abi=$(basename "$f" .apk | sed 's/app-//' | sed 's/-release//')
+            cp "$f" "artifacts/nadodi-v2.1.0-${commit_short}-${timestamp}-${abi}.apk"
           done
-          if [ -f build/app/outputs/flutter-apk/app-debug.apk ]; then
-            cp build/app/outputs/flutter-apk/app-debug.apk artifacts/nadodi-new-apk-universal.apk
+          
+          # Universal APK
+          if [[ -f build/app/outputs/flutter-apk/app-release.apk ]]; then
+            cp build/app/outputs/flutter-apk/app-release.apk \
+              "artifacts/nadodi-v2.1.0-${commit_short}-${timestamp}-universal.apk"
           fi
+          
+          echo "=== Artifacts created ==="
+          ls -la artifacts/
 
-      - name: Upload Artifacts
+      - name: Upload APK artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: nadodi-new-apk
+          name: nadodi-apk-${{ github.run_number }}
           path: artifacts/
-          retention-days: 7
+          retention-days: 30
+          compression-level: 6
 
-      - name: Create Release
-        if: github.event_name == 'workflow_dispatch'
+      - name: Create GitHub Release
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'push'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v2.1.0-${{ github.run_number }}
-          name: Nadodi v2.1.0 Build ${{ github.run_number }}
-          files: artifacts/*.apk
+          tag_name: v2.1.0-build${{ github.run_number }}
+          name: "Nadodi v2.1.0 Build #${{ github.run_number }}"
+          draft: false
+          prerelease: false
           generate_release_notes: true
+          files: artifacts/*.apk
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Notify on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: ${{ github.event.pull_request.number || 0 }},
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '❌ Build failed! Check the [workflow run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) for details.'
+            })
+        continue-on-error: true
+
+  # Separate job for code quality checks
+  lint:
+    name: Code Quality
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    
+    steps:
+      - uses: actions/checkout@v5
+      
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.24.3'
+          channel: 'stable'
+          cache: true
+      
+      - name: Get dependencies
+        run: flutter pub get
+      
+      - name: Check formatting
+        run: dart format --output=none --set-exit-if-changed .
+      
+      - name: Analyze code
+        run: flutter analyze --no-fatal-infos
+      
+      - name: Check for TODO/FIXME in production code
+        run: |
+          if grep -r "TODO\|FIXME" lib/ --include="*.dart" | grep -v test | grep -v "\.g\.dart"; then
+            echo "⚠️ Found TODO/FIXME comments in production code"
+            grep -r "TODO\|FIXME" lib/ --include="*.dart" | grep -v test | grep -v "\.g\.dart"
+          fi

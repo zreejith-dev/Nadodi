@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_map/flutter_map.dart';
-import 'package:latlong2/latlong.dart';
 import 'package:provider/provider.dart';
 import '../../core/services/supabase_service.dart';
 import '../../features/auth/auth_provider.dart';
 import '../../features/places/places_provider.dart';
 import '../../features/hidden/hidden_provider.dart';
+import '../../shared/models/place.dart';
 import '../../shared/services/data_service.dart';
 import '../screens/splash_screen.dart';
 import '../screens/home_screen.dart';
@@ -36,7 +35,10 @@ class AppRoutes {
       case home:
         return _fadeRoute(const HomeScreen());
       case placeDetail:
-        final place = settings.arguments as TouristPlace;
+        final place = settings.arguments as TouristPlace?;
+        if (place == null) {
+          return _fadeRoute(const Scaffold(body: Center(child: Text('Invalid place'))));
+        }
         return _fadeRoute(PlaceDetailScreen(place: place));
       case hidden:
         return _fadeRoute(const HiddenPlacesScreen());
@@ -83,7 +85,7 @@ class NadodiApp extends StatelessWidget {
         ),
         ChangeNotifierProxyProvider<DataService, HiddenSpotsProvider>(
           create: (_) => HiddenSpotsProvider(),
-          update: (_, data, hidden) => hidden,
+          update: (_, data, hidden) => hidden..loadData(),
         ),
       ],
       child: Consumer<AuthProvider>(
@@ -95,7 +97,7 @@ class NadodiApp extends StatelessWidget {
             darkTheme: AppTheme.dark(),
             themeMode: ThemeMode.system,
             onGenerateRoute: AppRoutes.generateRoute,
-            initialRoute: auth.isRestoringSession ? AppRoutes.splash : AppRoutes.auth,
+            initialRoute: AppRoutes.splash,
             builder: (context, child) {
               return MediaQuery(
                 data: MediaQuery.of(context).copyWith(textScaler: TextScaler.linear(1.0)),
